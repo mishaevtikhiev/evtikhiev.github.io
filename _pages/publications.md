@@ -18,3 +18,7 @@ author_profile: true
 {% endfor %}
 
 <h2>Physics</h2>
+
+{% for post in site.publicationsphysics reversed %}
+  {% include archive-single.html %}
+{% endfor %}
