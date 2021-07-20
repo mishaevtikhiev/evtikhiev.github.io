@@ -73,22 +73,22 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "G-B1PYH90B0L"
 
 
 # Site Author
 author:
   name             : "Yaroslav Golubev"
   avatar           : "main.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  bio              : "Senior Researcher at JetBrains Research"
+  location         : "Saint Petersburg, Russia"
+  employer         : "JetBrains Russia"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=qb_dl6AAAAAJ&hl=en"
+  email            : "yaroslav.golubev@jetbrains.com"
+  researchgate     : "https://www.researchgate.net/profile/Yaroslav-Golubev/"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "areyde"
   google_plus      :
   keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  instagram        : "https://www.instagram.com/yaroslavgolubev/"
+  impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/yaroslav-golubev/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "areyde"
   vine             :
   weibo            :
   xing             :
