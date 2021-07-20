@@ -14,13 +14,13 @@ author_profile: true
 Red titles indicate <span style="color: #992017;"><b>published or accepted papers</b></span>,
 yellow titles indicate <span style="color: #c19131;"><b>preprints</b></span>.
 
-<h2 style="margin-top:-3px;">Software Engineering</h2>
+<h2 >Software Engineering</h2>
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-<h2 style="margin-top:-3px;">Physics</h2>
+<h2 >Physics</h2>
 
 {% for post in site.publicationsphysics reversed %}
   {% include archive-single.html %}
