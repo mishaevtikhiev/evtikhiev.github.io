@@ -1,5 +1,5 @@
 ---
-title: "Evolution of Thin Silver Films Under Exposure to Laser Pulses in the Air"
+title: "Evolution of Thin Silver Films Under Exposure to Laser Pulses In the Air"
 authors: '<i>Eduard Ageev, Ilnur Aminov, Mikhail Baranov, <b>Yaroslav Golubev</b>, Galina Odintsova, and Pavel Varlamov</i>'
 collection: publications
 permalink: /publication/2017-01-11-nanoparticles
@@ -7,15 +7,16 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2017-01-11
 venue: "<b>Optical and Quantum Electronics</b>"
 paperurl: 'https://link.springer.com/article/10.1007/s11082-016-0874-6'
-citation: 'Ageev, E. I., Aminov, I. R., Baranov, M. A., Golubev, Y. D., Odintsova, G. V., & Varlamov, P. V. (2017). Evolution of Thin Silver Films Under Exposure to Laser Pulses in the Air. Optical and Quantum Electronics, 49(2), 56.'
+citation: 'Ageev, E. I., Aminov, I. R., Baranov, M. A., Golubev, Y. D., Odintsova, G. V., & Varlamov, P. V. (2017). Evolution of Thin Silver Films Under Exposure to Laser Pulses In the Air. Optical and Quantum Electronics, 49(2), 56.'
 ---
-In this paper, we present Kotless — a Kotlin Serverless Framework. Kotless is a cloud-agnostic toolkit that solves 
-these problems by interweaving the deployed application into the cloud infrastructure and automatically generating 
-the necessary deployment code. This relieves developers from having to spend their time integrating and managing their
-applications instead of developing them. Kotless has proven its capabilities and has been used to develop several 
-serverless applications already in production. Its source code is available at https://github.com/JetBrains/kotless, 
-a tool demo can be found at https://www.youtube.com/watch?v=IMSakPNl3TY.
+The process of formation and the characteristics of silver nanostructures created by pulsed laser annealing in the 
+air are studied. Nanoparticles were obtained by way of irradiating thin silver films (62 and 175 nm) on the dielectric
+(glass) base with an excimer laser emission (k = 193 nm). Created nanostructures were studied using the methods of
+scanning electron microscopy and optical spectrometry, the dependencies of the mean size of obtained nanoparticles
+and the position of their plasmonic resonance on the number of laser pulses (ranging from 270 to 30,000) were drawn out.
+Based on the shift of the plasmonic resonance, the use of given nanostructures as optical components with narrowband 
+extinction (for example, notch filter), the magnitude and center frequency of which can be specified in advance, is suggested.
 
 [Download paper here](https://link.springer.com/content/pdf/10.1007/s11082-016-0874-6.pdf)
 
-Recommended citation: Ageev, E. I., Aminov, I. R., Baranov, M. A., Golubev, Y. D., Odintsova, G. V., & Varlamov, P. V. (2017). Evolution of Thin Silver Films Under Exposure to Laser Pulses in the Air. Optical and Quantum Electronics, 49(2), 56.
+Recommended citation: Ageev, E. I., Aminov, I. R., Baranov, M. A., Golubev, Y. D., Odintsova, G. V., & Varlamov, P. V. (2017). Evolution of Thin Silver Films Under Exposure to Laser Pulses In the Air. Optical and Quantum Electronics, 49(2), 56.
