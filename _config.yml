@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yaroslav Golubev"
 title_separator          : "-"
 name                     : &name "Yaroslav Golubev"
-description              : &description "personal description"
+description              : &description "Yaroslav Golubev"
 url                      : "https://areyde.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "areyde/areyde.github.io"
@@ -99,11 +99,11 @@ author:
   github           : "areyde"
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/yaroslavgolubev/"
+  instagram        : "yaroslavgolubev"
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/yaroslav-golubev/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "yaroslav-golubev"
+  orcid            : "http://orcid.org/0000-0001-7009-635X"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
