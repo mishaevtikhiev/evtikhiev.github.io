@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-11-15-kotless
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2019-11-15
-venue: '34th IEEE/ACM International Conference on Automated Software Engineering (ASE'19)'
+venue: '34th IEEE/ACM International Conference on Automated Software Engineering (ASE)'
 paperurl: 'https://arxiv.org/abs/2105.13866'
 citation: 'Tankov, V., Golubev, Y., & Bryksin, T. (2019, November). Kotless: A serverless framework for kotlin. In 2019 34th IEEE/ACM International Conference on Automated Software Engineering (ASE) (pp. 1110-1113). IEEE.'
 ---
