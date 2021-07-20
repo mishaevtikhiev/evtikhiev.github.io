@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-<p>Red titles indicate <span style="color: #992017;"><b>published or accepted papers</b></span>,
+<p style="margin-bottom:-2px;">Red titles indicate <span style="color: #992017;"><b>published or accepted papers</b></span>,
 yellow titles indicate <span style="color: #c19131;"><b>preprints</b></span>.</p>
 
 <h2 >Software Engineering</h2>
