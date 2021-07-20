@@ -56,7 +56,7 @@
             <b>{{ post.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Accepted to <i>{{ post.venue }}</i></p>
           {% elsif post.status == "preprint" %}
           <p style="padding-top:0;"> {{ post.authors }} <br>
-            <b>{{ post.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. P <span style="color: #c19131;"><i>{{ post.venue }}</i></span></p>
+            <b>{{ post.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Published in <span style="color: #c19131;"><i>{{ post.venue }}</i></span></p>
           {% else %}
           <p style="padding-top:0;"> {{ post.authors }} <br>
             <b>{{ post.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Published in <i>{{ post.venue }}</i></p>
