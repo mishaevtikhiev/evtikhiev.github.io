@@ -11,8 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
-<p>This page contains a full list of my publications. Red titles indicate <span style="color: #992017;"><b>published or accepted papers</b></span>,
-yellow titles indicate <span style="color: #c19131;"><b>preprints</b></span>.</p>
+Red titles indicate <span style="color: #992017;"><b>published or accepted papers</b></span>,
+yellow titles indicate <span style="color: #c19131;"><b>preprints</b></span>.
 
 <h2>Software Engineering</h2>
 
