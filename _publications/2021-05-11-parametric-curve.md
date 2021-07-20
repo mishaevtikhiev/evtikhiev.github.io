@@ -20,4 +20,4 @@ datasets. BigCloneBench evaluation also shows that the recall of detecting Stron
 
 [Download paper here](https://arxiv.org/pdf/2002.05204.pdf)
 
-Recommended citation: Golubev, Y., Poletansky, V., Povarov, N., & Bryksin, T. (2021, March). Multi-Threshold Token-Based Code Clone Detection. In 2021 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER) (pp. 496-500). IEEE..
+Recommended citation: Golubev, Y., Poletansky, V., Povarov, N., & Bryksin, T. (2021, March). Multi-Threshold Token-Based Code Clone Detection. In 2021 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER) (pp. 496-500). IEEE.
