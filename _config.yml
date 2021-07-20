@@ -233,7 +233,7 @@ defaults:
   # _publicationsphysics
   - scope:
       path: ""
-      type: publications
+      type: publicationsphysics
     values:
       layout: single
       author_profile: true
