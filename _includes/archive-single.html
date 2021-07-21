@@ -53,13 +53,13 @@
         {% elsif post.collection == 'publications' or post.collection == 'publicationsphysics' %}
           {% if post.status == "accepted" %}
           <p style="padding-top:0;"> {{ post.authors }} <br>
-            <b>{{ post.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Accepted to <span style="color: #992017;"> {{ post.venue }}</span></p>
+            <b>{{ post.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Accepted to {{ post.venue }}.</p>
           {% elsif post.status == "preprint" %}
           <p style="padding-top:0;"> {{ post.authors }} <br>
-            <b>{{ post.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Published in <span style="color: #992017;">{{ post.venue }}</span></p>
+            <b>{{ post.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Published in {{ post.venue }}.</p>
           {% else %}
           <p style="padding-top:0;"> {{ post.authors }} <br>
-            <b>{{ post.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Published in <span style="color: #992017;"> {{ post.venue }}</span></p>
+            <b>{{ post.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Published in {{ post.venue }}.</p>
           {% endif %}
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
