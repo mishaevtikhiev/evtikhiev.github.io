@@ -1,6 +1,6 @@
 ---
 title: "Multi-Threshold Token-Based Code Clone Detection"
-authors: '<i><b>Yaroslav Golubev</b>, Viktor Poletansky, Nikita Povarov, and Timofey Bryksin</i>'
+authors: '<i>Yaroslav Golubev, Viktor Poletansky, Nikita Povarov, and Timofey Bryksin</i>'
 collection: publications
 permalink: /publication/2021-05-11-parametric-curve
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'

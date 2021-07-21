@@ -1,6 +1,6 @@
 ---
 title: "Recommendation of Move Method Refactoring Using Path-Based Representation of Code"
-authors: '<i>Zarina Kurbatova, Ivan Veselov, <b>Yaroslav Golubev</b>, and Timofey Bryksin</i>'
+authors: '<i>Zarina Kurbatova, Ivan Veselov, Yaroslav Golubev, and Timofey Bryksin</i>'
 collection: publications
 permalink: /publication/2020-06-27-recommending-move-methods
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
