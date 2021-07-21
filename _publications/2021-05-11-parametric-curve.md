@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/2021-05-11-parametric-curve
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-05-11
-venue: "Proceedings of <b>SANER'21</b>"
+venue: "the proceedings of <b>SANER'21</b>"
 paperurl: 'https://arxiv.org/abs/2002.05204'
 citation: 'Golubev, Y., Poletansky, V., Povarov, N., & Bryksin, T. (2021, March). Multi-Threshold Token-Based Code Clone Detection. In 2021 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER) (pp. 496-500). IEEE.'
 ---
