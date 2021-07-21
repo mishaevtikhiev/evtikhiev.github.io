@@ -6,7 +6,7 @@ collection: publications
 permalink: /publication/2021-08-25-refactoring-survey
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-08-25
-venue: "The ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering<b> (ESEC/FSE'21)</b>"
+venue: "<b>ESEC/FSE'21</b>"
 paperurl: 'https://arxiv.org/abs/2107.07357'
 citation: 'Golubev, Y., Kurbatova, Z., AlOmar, E. A., Bryksin, T., & Mkaouer, M. W. (2021). One Thousand and One Stories: A Large-Scale Survey of Software Refactoring. arXiv preprint arXiv:2107.07357.'
 ---

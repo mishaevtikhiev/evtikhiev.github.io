@@ -6,7 +6,7 @@ collection: publications
 permalink: /publication/2021-08-23-code-change-embeddings
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-08-23
-venue: "The 5th International Workshop on Machine Learning Techniques for Software Quality Evolution <b>(MaLTeSQuE'21)</b>"
+venue: "<b>MaLTeSQuE'21</b>"
 paperurl: 'https://arxiv.org/abs/2106.02087'
 citation: 'Pravilov, M., Bogomolov, E., Golubev, Y., & Bryksin, T. (2021). Unsupervised Learning of General-Purpose Embeddings for Code Changes. arXiv preprint arXiv:2106.02087.'
 ---

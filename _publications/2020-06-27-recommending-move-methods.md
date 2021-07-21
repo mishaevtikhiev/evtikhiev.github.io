@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/2020-06-27-recommending-move-methods
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-06-27
-venue: "Proceedings of the 4th International Workshop on Refactoring <b>(IWoR'20)</b>"
+venue: "Proceedings of <b>IWoR'20</b>"
 paperurl: 'https://arxiv.org/abs/2002.06392'
 citation: 'Kurbatova, Z., Veselov, I., Golubev, Y., & Bryksin, T. (2020, June). Recommendation of Move Method Refactoring Using Path-Based Representation of Code. In Proceedings of the IEEE/ACM 42nd International Conference on Software Engineering Workshops (pp. 315-322).'
 ---

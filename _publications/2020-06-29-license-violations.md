@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/2020-06-29-license-violations
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-06-29
-venue: "Proceedings of the 17th International Conference on Mining Software Repositories <b>(MSR'20)</b>"
+venue: "Proceedings of <b>MSR'20</b>"
 paperurl: 'https://arxiv.org/abs/2002.05237'
 citation: 'Golubev, Y., Eliseeva, M., Povarov, N., & Bryksin, T. (2020, June). A Study of Potential Code Borrowing and License Violations in Java Projects on GitHub. In Proceedings of the 17th International Conference on Mining Software Repositories (pp. 54-64).'
 ---
