@@ -1,6 +1,6 @@
 ---
 title: "On the Nature of Code Cloning in Open-Source Java Projects"
-authors: '<i><b>Yaroslav Golubev</b> and Timofey Bryksin</i>'
+authors: '<i>Yaroslav Golubev and Timofey Bryksin</i>'
 status: "preprint"
 collection: publications
 permalink: /publication/2021-07-09-nature-of-clones
