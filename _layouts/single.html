@@ -38,13 +38,13 @@ layout: default
         <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.venue and page.date %}
           {% if page.status == "accepted" %}
-          <p style="padding-top:0;"> {{ page.authors }} </p>
+          <p> {{ page.authors }} </p>
             <p><b>{{ page.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Accepted to {{ page.venue }}.</p>
           {% elsif page.status == "preprint" %}
-          <p style="padding-top:0;"> {{ page.authors }} </p>
+          <p> {{ page.authors }} </p>
             <p><b>{{ page.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Published in {{ page.venue }}.</p>
           {% else %}
-          <p style="padding-top:0;"> {{ page.authors }} </p>
+          <p> {{ page.authors }} </p>
             <p><b>{{ page.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Published in {{ page.venue }}.</p>
           {% endif %}
         {% elsif page.date %}
