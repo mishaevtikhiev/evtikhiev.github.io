@@ -1,6 +1,6 @@
 ---
 title: "Dynamic All-Optical Control In Ultrashort Double-Pulse Laser Ablation"
-authors: '<i>Sergey Kudryashov, Andrey Samokhvalov, <b>Yaroslav Golubev</b>, Dmitry Ivanov, Martin Garcia, Vadim Veiko, Baerbel Rethfeld, and Vladimir Mikhailovskii</i>'
+authors: '<i>Sergey Kudryashov, Andrey Samokhvalov, Yaroslav Golubev, Dmitry Ivanov, Martin Garcia, Vadim Veiko, Baerbel Rethfeld, and Vladimir Mikhailovskii</i>'
 collection: publications
 permalink: /publication/2021-01-30-femtosecond
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'

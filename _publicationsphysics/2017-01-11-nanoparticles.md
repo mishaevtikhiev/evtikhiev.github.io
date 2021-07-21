@@ -1,6 +1,6 @@
 ---
 title: "Evolution of Thin Silver Films Under Exposure to Laser Pulses In the Air"
-authors: '<i>Eduard Ageev, Ilnur Aminov, Mikhail Baranov, <b>Yaroslav Golubev</b>, Galina Odintsova, and Pavel Varlamov</i>'
+authors: '<i>Eduard Ageev, Ilnur Aminov, Mikhail Baranov, Yaroslav Golubev, Galina Odintsova, and Pavel Varlamov</i>'
 collection: publications
 permalink: /publication/2017-01-11-nanoparticles
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
