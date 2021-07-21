@@ -29,11 +29,11 @@
     {% if post.status == "preprint" %}
     <h3 class="archive__item-title" itemprop="headline" style="margin-bottom:-15px; color:#c19131;">
       {% if post.link %}
-      <a href="{{ post.link }}" style="color:#c19131;">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" style="color:#c19131;" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a> (pre-print)
+      <a href="{{ post.link }}" style="color:#c19131;">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" style="color:#c19131;" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
-      <a href="{{ base_path }}{{ post.url }}" style="color:#c19131;" rel="permalink">{{ title }}</a> (pre-print)
+      <a href="{{ base_path }}{{ post.url }}" style="color:#c19131;" rel="permalink">{{ title }}</a>
       {% endif %}
-    </h3>
+    </h3> (pre-print)
     {% else %}
     <h3 class="archive__item-title" itemprop="headline" style="margin-bottom:-15px;">
       {% if post.link %}
