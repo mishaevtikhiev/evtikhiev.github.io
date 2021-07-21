@@ -37,15 +37,15 @@ layout: default
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.venue and page.date %}
-          {% if post.status == "accepted" %}
-          <p style="padding-top:0;"> {{ post.authors }} <br>
-            <b>{{ post.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Accepted to {{ post.venue }}.</p>
-          {% elsif post.status == "preprint" %}
-          <p style="padding-top:0;"> {{ post.authors }} <br>
-            <b>{{ post.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Published in {{ post.venue }}.</p>
+          {% if page.status == "accepted" %}
+          <p style="padding-top:0;"> {{ page.authors }} <br>
+            <b>{{ page.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Accepted to {{ page.venue }}.</p>
+          {% elsif page.status == "preprint" %}
+          <p style="padding-top:0;"> {{ page.authors }} <br>
+            <b>{{ page.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Published in {{ page.venue }}.</p>
           {% else %}
-          <p style="padding-top:0;"> {{ post.authors }} <br>
-            <b>{{ post.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Published in {{ post.venue }}.</p>
+          <p style="padding-top:0;"> {{ page.authors }} <br>
+            <b>{{ page.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Published in {{ page.venue }}.</p>
         {% elsif page.date %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
