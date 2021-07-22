@@ -5,23 +5,11 @@ permalink: /tools/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
-
-[comment]: <> (<p style="margin-bottom:-2px;">Red titles indicate <span style="color: #992017;"><b>published or accepted papers</b></span>,)
-
-[comment]: <> (yellow titles indicate <span style="color: #c19131;"><b>preprints</b></span>.</p>)
-
-<h2 >Software Engineering</h2>
 
 {% for post in site.tools reversed %}
 {% include archive-single.html %}
 {% endfor %}
-
-<h2 >Physics</h2>
 
 {% for post in site.tools reversed %}
 {% include archive-single.html %}
