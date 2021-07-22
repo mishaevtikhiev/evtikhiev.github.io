@@ -62,14 +62,11 @@
             <b>{{ post.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Published in {{ post.venue }}.</p>
           {% endif %}
 
-          {% if post.paperurl and post.pdf %}
-          <a class="btn--research" href="{{ post.paperurl }}">Paper</a> <a class="btn--research" href="{{ post.pdf }}">PDF</a>
+          {% if post.paperurl %}
+          <a class="btn--research" href="{{ post.paperurl }}">Paper</a>
           {% endif %}
           {% if post.pdf %}
           <a class="btn--research" href="{{ post.pdf }}">PDF</a>
-          {% endif %}
-          {% if post.paperurl %}
-          <a class="btn--research" href="{{ post.paperurl }}">Paper</a>
           {% endif %}
 
         {% elsif post.date %}

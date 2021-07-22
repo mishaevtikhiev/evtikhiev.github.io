@@ -56,12 +56,11 @@ layout: default
         {{ page.abstract }}
         {% endif %}
 
-        {% if page.paperurl and page.pdf %}
-        <a class="btn--research" href="{{ page.paperurl }}">Paper</a> <a class="btn--research" href="{{ page.pdf }}">PDF</a>
-        {% elsif page.pdf %}
-        <a class="btn--research" href="{{ page.pdf }}">PDF</a>
-        {% elsif page.paperurl %}
+        {% if page.paperurl %}
         <a class="btn--research" href="{{ page.paperurl }}">Paper</a>
+        {% endif %}
+        {% if page.pdf %}
+        <a class="btn--research" href="{{ page.pdf }}">PDF</a>
         {% endif %}
 
       </header>
