@@ -17,12 +17,12 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 
 <h2 >Software Engineering</h2>
 
-{% for post in site.publications reversed %}
+{% for post in site.tools reversed %}
 {% include archive-single.html %}
 {% endfor %}
 
 <h2 >Physics</h2>
 
-{% for post in site.publicationsphysics reversed %}
+{% for post in site.tools reversed %}
 {% include archive-single.html %}
 {% endfor %}
