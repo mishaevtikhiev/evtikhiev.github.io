@@ -184,7 +184,7 @@ collections:
   publicationsphysics:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  tools:
     output: true
     permalink: /:collection/:path/
   talks:
