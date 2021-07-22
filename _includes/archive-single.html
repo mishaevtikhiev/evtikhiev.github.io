@@ -58,7 +58,7 @@
           <p style="padding-top:0;"> {{ post.authors }} <br>
             <b>{{ post.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Published in {{ post.venue }}.</p>
           {% else %}
-          <p style="padding-top:0; padding-bottom: 0;"> {{ post.authors }} <br>
+          <p style="padding-top:0; padding-bottom: 0; margin-bottom:-15px;"> {{ post.authors }} <br>
             <b>{{ post.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Published in {{ post.venue }}.</p>
           {% endif %}
 
