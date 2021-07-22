@@ -92,7 +92,7 @@
           {% endif %}
         {% elsif post.collection == 'tools' %}
           {% if post.tag %}
-          <p style="padding-top:0; margin-bottom:30px; margin-top:-20px;">{{ post.tag }}</p>
+          <p style="padding-top:0; margin-bottom:15px; margin-top:-5px;">{{ post.tag }}</p>
           {% endif %}
           {% if post.tool %}
           <a class="btn--research" href="{{ post.tool }}">Tool</a>
@@ -111,7 +111,7 @@
           {% endif %}
           {% if post.video %}
           <a class="btn--research" href="{{ post.video }}">Video</a>
-    {% endif %}
+          {% endif %}
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
