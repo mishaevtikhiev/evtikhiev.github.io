@@ -58,12 +58,14 @@
           <p style="padding-top:0;"> {{ post.authors }} <br>
             <b>{{ post.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Published in {{ post.venue }}.</p>
           {% else %}
-          <p style="padding-top:0; margin-bottom:10px;"> {{ post.authors }} <br>
+          <p style="padding-top:0; margin-bottom:9px;"> {{ post.authors }} <br>
             <b>{{ post.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Published in {{ post.venue }}.</p>
           {% endif %}
 
           {% if post.paperurl and post.pdf %}
           <a class="btn--research" href="{{ post.paperurl }}">Paper</a> <a class="btn--research" href="{{ post.pdf }}">PDF</a>
+          {% elsif post.pdf %}
+          <a class="btn--research" href="{{ post.pdf }}">PDF</a>
           {% endif %}
 
         {% elsif post.date %}
