@@ -62,6 +62,15 @@ layout: default
         {% if page.pdf %}
         <a class="btn--research" href="{{ page.pdf }}">PDF</a>
         {% endif %}
+        {% if page.data %}
+        <a class="btn--research" href="{{ page.data }}">Data</a>
+        {% endif %}
+        {% if page.tool %}
+        <a class="btn--research" href="{{ page.tool }}">Tool</a>
+        {% endif %}
+        {% if page.github %}
+        <a class="btn--research" href="{{ page.github }}">GitHub</a>
+        {% endif %}
 
       </header>
       {% endunless %}
