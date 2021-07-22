@@ -162,7 +162,7 @@
     border: 1px solid;
     border-color: $link-color;
     border-radius: $border-radius;
-    background-color: #fff;
+    background-color: #fff !important;
     cursor: pointer;
 
     &:hover {
