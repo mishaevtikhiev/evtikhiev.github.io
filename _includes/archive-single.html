@@ -26,8 +26,8 @@
       </div>
     {% endif %}
 
-    {% if post.collection == 'publications' or post.collection == 'publicationsphysics' %}
-      {% if post.status == "preprint" %}
+<!--    {% if post.collection == 'publications' or post.collection == 'publicationsphysics' %}-->
+<!--      {% if post.status == "preprint" %}-->
       <h3 class="archive__item-title" itemprop="headline" style="margin-bottom:-15px; color:#992017;">
         {% if post.link %}
         <a href="{{ post.link }}" style="color:#992017;">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" style="color:#992017;" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
@@ -35,24 +35,24 @@
         <a href="{{ base_path }}{{ post.url }}" style="color:#992017;" rel="permalink">{{ title }}</a>
         {% endif %}
       </h3>
-      {% else %}
-      <h3 class="archive__item-title" itemprop="headline" style="margin-bottom:-15px;">
-        {% if post.link %}
-          <a href="{{ post.link }}" style="color:#992017;">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-        {% else %}
-          <a href="{{ base_path }}{{ post.url }}" style="color:#992017;" rel="permalink">{{ title }}</a>
-        {% endif %}
-      </h3>
-      {% endif %}
-    {% else %}
-      <h3 class="archive__item-title" itemprop="headline" style="margin-bottom:-15px;">
-        {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-        {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
-        {% endif %}
-      </h3>
-    {%endif %}
+<!--      {% else %}-->
+<!--      <h3 class="archive__item-title" itemprop="headline" style="margin-bottom:-15px;">-->
+<!--        {% if post.link %}-->
+<!--          <a href="{{ post.link }}" style="color:#992017;">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>-->
+<!--        {% else %}-->
+<!--          <a href="{{ base_path }}{{ post.url }}" style="color:#992017;" rel="permalink">{{ title }}</a>-->
+<!--        {% endif %}-->
+<!--      </h3>-->
+<!--      {% endif %}-->
+<!--    {% else %}-->
+<!--      <h3 class="archive__item-title" itemprop="headline" style="margin-bottom:-15px;">-->
+<!--        {% if post.link %}-->
+<!--        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>-->
+<!--        {% else %}-->
+<!--        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>-->
+<!--        {% endif %}-->
+<!--      </h3>-->
+<!--    {%endif %}-->
     
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
@@ -92,7 +92,7 @@
           {% endif %}
         {% elsif post.collection == 'tools' %}
           {% if post.tag %}
-          <p style="padding-top:0; margin-bottom:9px; margin-top:9px;">{{ post.tag }}</p>
+          <p style="padding-top:0; margin-bottom:9px;">{{ post.tag }}</p>
           {% endif %}
           {% if post.tool %}
           <a class="btn--research" href="{{ post.tool }}">Tool</a>
