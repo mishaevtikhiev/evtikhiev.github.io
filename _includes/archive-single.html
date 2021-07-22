@@ -64,9 +64,11 @@
 
           {% if post.paperurl and post.pdf %}
           <a class="btn--research" href="{{ post.paperurl }}">Paper</a> <a class="btn--research" href="{{ post.pdf }}">PDF</a>
-          {% elsif post.pdf %}
+          {% endif %}
+          {% if post.pdf %}
           <a class="btn--research" href="{{ post.pdf }}">PDF</a>
-          {% elsif post.paperurl %}
+          {% endif %}
+          {% if post.paperurl %}
           <a class="btn--research" href="{{ post.paperurl }}">Paper</a>
           {% endif %}
 
