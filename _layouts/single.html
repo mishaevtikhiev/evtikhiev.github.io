@@ -56,8 +56,9 @@ layout: default
         {{ page.abstract }}
         {% endif %}
 
-        {% if page.buttons %}
-        <button style="background-color: white" class="btn--research">Test</button>
+        {% if page.paperurl and page.pdf %}
+        <button style="background-color: white" class="btn--research" >{{ Paper }}</button>
+        <a style="background-color: white" class="btn--research" href="{{ page.paperurl }}">{{ Paper }}</a>
         {% endif %}
 
       </header>
