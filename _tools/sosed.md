@@ -1,10 +1,7 @@
 ---
-title: "Sosed: a Tool for Finding Similar Software Projects"
-authors: '<i>Egor Bogomolov, Yaroslav Golubev, Artyom Lobanov, Vladimir Kovalenko, and Timofey Bryksin</i>'
+title: "Sosed"
 collection: tools
-permalink: /tool/2020-12-21-sosed
-date: 2020-12-21
-venue: "proceedings of <b>ASE'20</b>"
+permalink: /tool/sosed
 paperurl: 'https://doi.org/10.1145/3324884.3415291'
 pdf: 'https://arxiv.org/pdf/2007.02599.pdf'
 tool: 'https://github.com/JetBrains-Research/sosed/'
