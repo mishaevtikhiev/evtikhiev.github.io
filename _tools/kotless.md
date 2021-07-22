@@ -2,7 +2,10 @@
 title: "Kotless"
 collection: tools
 permalink: /tool/kotless
-pdf: 'https://arxiv.org/pdf/2105.10157.pdf'
-tool: 'https://zenodo.org/record/4562237'
-abstract: '<p><b>Abstract</b>. Code changes constitute one of the most important features of software evolution. Studying them can provide insights into the nature of software development and also lead to practical solutions - recommendations and automations of popular changes for developers.</p><p>In our work, we developed a tool called PythonChangeMiner that allows to discover code change patterns in the histories of Python projects. We validated the tool and then employed it to discover patterns in the dataset of 120 projects from four different domains of software engineering. We manually categorized patterns that occur in more than one project from the standpoint of their structure and content, and compared different domains and patterns in that regard. We conducted a survey of the authors of the discovered changes: 82.9% of them said that they can give the change a name and 57.9% expressed their desire to have the changes automated, indicating the ability of the tool to discover valuable patterns. Finally, we interviewed 9 members of a popular integrated development environment (IDE) development team to estimate the feasibility of automating the discovered changes. It was revealed that independence from the context and high precision made a pattern a better candidate for automation. The patterns received mainly positive reviews and several were ranked as very likely for automation.</p>'
+paperurl: 'https://doi.org/10.1109/ASE.2019.00114'
+pdf: 'https://arxiv.org/pdf/2105.13866.pdf'
+tool: 'https://github.com/JetBrains/kotless'
+video: 'https://www.youtube.com/watch?v=IMSakPNl3TY'
+tag: 'Kotlin serverless framework that aims to reduce the routine of serverless deployment creation by generating it straight from the code of the application itself.'
+abstract: '<p><b>Kotless</b> is a Kotlin serverless framework. Kotless is a cloud-agnostic toolkit that solves these problems by interweaving the deployed application into the cloud infrastructure and automatically generating the necessary deployment code. This relieves developers from having to spend their time integrating and managing their applications instead of developing them. Kotless has proven its capabilities and has been used to develop several serverless applications already in production.</p>'
 ---
