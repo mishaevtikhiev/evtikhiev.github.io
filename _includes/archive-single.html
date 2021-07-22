@@ -52,10 +52,10 @@
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%month, %Y" }} </p>
         {% elsif post.collection == 'publications' or post.collection == 'publicationsphysics' %}
           {% if post.status == "accepted" %}
-          <p style="padding-top:0;"> {{ post.authors }} <br>
+          <p style="padding-top:0; margin-bottom:9px;"> {{ post.authors }} <br>
             <b>{{ post.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Accepted to {{ post.venue }}.</p>
           {% elsif post.status == "preprint" %}
-          <p style="padding-top:0;"> {{ post.authors }} <br>
+          <p style="padding-top:0; margin-bottom:9px;"> {{ post.authors }} <br>
             <b>{{ post.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Published in {{ post.venue }}.</p>
           {% else %}
           <p style="padding-top:0; margin-bottom:9px;"> {{ post.authors }} <br>
@@ -66,6 +66,8 @@
           <a class="btn--research" href="{{ post.paperurl }}">Paper</a> <a class="btn--research" href="{{ post.pdf }}">PDF</a>
           {% elsif post.pdf %}
           <a class="btn--research" href="{{ post.pdf }}">PDF</a>
+          {% elsif post.paperurl %}
+          <a class="btn--research" href="{{ post.paperurl }}">Paper</a>
           {% endif %}
 
         {% elsif post.date %}

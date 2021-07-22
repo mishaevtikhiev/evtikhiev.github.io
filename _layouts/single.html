@@ -60,6 +60,8 @@ layout: default
         <a class="btn--research" href="{{ page.paperurl }}">Paper</a> <a class="btn--research" href="{{ page.pdf }}">PDF</a>
         {% elsif page.pdf %}
         <a class="btn--research" href="{{ page.pdf }}">PDF</a>
+        {% elsif page.paperurl %}
+        <a class="btn--research" href="{{ page.paperurl }}">Paper</a>
         {% endif %}
 
       </header>
