@@ -56,25 +56,45 @@ layout: default
         {{ page.abstract }}
         {% endif %}
 
-        {% if page.paperurl %}
-        <a class="btn--research" href="{{ page.paperurl }}">DOI</a>
+        {% if page.collection == 'publications' or page.collection == 'publicationsphysics' %}
+          {% if page.paperurl %}
+          <a class="btn--research" href="{{ page.paperurl }}">DOI</a>
+          {% endif %}
+          {% if page.pdf %}
+          <a class="btn--research" href="{{ page.pdf }}">PDF</a>
+          {% endif %}
+          {% if page.data %}
+          <a class="btn--research" href="{{ page.data }}">Data</a>
+          {% endif %}
+          {% if page.tool %}
+          <a class="btn--research" href="{{ page.tool }}">Tool</a>
+          {% endif %}
+          {% if page.github %}
+          <a class="btn--research" href="{{ page.github }}">GitHub</a>
+          {% endif %}
+          {% if page.video %}
+          <a class="btn--research" href="{{ page.video }}">Video</a>
+          {% endif %}
+        {% elsif page.collection == 'tools' %}
+          {% if page.tool %}
+          <a class="btn--research" href="{{ page.tool }}">Tool</a>
+          {% endif %}
+          {% if page.video %}
+          <a class="btn--research" href="{{ page.video }}">Video</a>
+          {% endif %}
+          {% if page.paperurl %}
+          <a class="btn--research" href="{{ page.paperurl }}">Paper DOI</a>
+          {% endif %}
+          {% if page.pdf %}
+          <a class="btn--research" href="{{ page.pdf }}">Paper PDF</a>
+          {% endif %}
+          {% if page.data %}
+          <a class="btn--research" href="{{ page.data }}">Data</a>
+          {% endif %}
+          {% if page.github %}
+          <a class="btn--research" href="{{ page.github }}">GitHub</a>
+          {% endif %}
         {% endif %}
-        {% if page.pdf %}
-        <a class="btn--research" href="{{ page.pdf }}">PDF</a>
-        {% endif %}
-        {% if page.data %}
-        <a class="btn--research" href="{{ page.data }}">Data</a>
-        {% endif %}
-        {% if page.tool %}
-        <a class="btn--research" href="{{ page.tool }}">Tool</a>
-        {% endif %}
-        {% if page.github %}
-        <a class="btn--research" href="{{ page.github }}">GitHub</a>
-        {% endif %}
-        {% if page.video %}
-        <a class="btn--research" href="{{ page.video }}">Video</a>
-        {% endif %}
-
       </header>
       {% endunless %}
 
