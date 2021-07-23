@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Academic work"
 permalink: /academic_work/
 author_profile: true
 ---
@@ -11,6 +11,16 @@ author_profile: true
 
 {% endif %}
 
-{% for post in site.talks reversed %}
-{% include archive-single-talk.html %}
-{% endfor %}
+<h2>Participation in conferences</h2>
+
+<h3>Author</h3>
+
+<h3>Reviewer</h3>
+
+<h3>Organizer</h3>
+
+<h2>University work</h2>
+
+<h3>Teaching</h3>
+
+<h3>Curating</h3>
