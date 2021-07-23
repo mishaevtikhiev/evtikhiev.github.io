@@ -5,13 +5,13 @@ main:
 
   - title: "Tools"
     url: /tools/
-
-  - title: "Academic work"
-    url: /teaching/    
     
   - title: "Talks"
     url: /talks/   
-    
+
+  - title: "Academic work"
+    url: /academic_work/
+
   - title: "CV"
     url: /cv/
 
