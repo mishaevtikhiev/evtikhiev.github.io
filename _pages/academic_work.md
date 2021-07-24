@@ -15,6 +15,8 @@ author_profile: true
 
 <h3>Author</h3>
 
+<b>2016</b>: <a href="http://lpc.ifmo.ru/flamn16/">FLAMN</a>
+
 <h3>Reviewer</h3>
 
 <h3>Organizer</h3>
