@@ -42,3 +42,7 @@ author_profile: true
 <b>2021</b>.<br>
 <p>Reviewer for the Bachelor's thesis of Alina Dzestelova, <i>"Recognizing images with signs of violence using convolutional neural networks"</i>, Saint Petersburg State University.</p>
 <p>Consultant for the Bachelor's thesis of Dmitry Pogrebnoy, <i>"Development of a software license compatibility check system"</i>, Saint Petersburg State University.</p>
+
+<h2>Other</h2>
+
+<b>2016</b>. Participated in the <a href="https://www.timeshighereducation.com/world-university-rankings/brics-emerging-economies-universities-summit-take-place-johannesburg">THE BRICS & Emerging Economies Universities Summit</a> as a representative of Russian students.
