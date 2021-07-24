@@ -15,7 +15,7 @@ author_profile: true
 
 <h3>Author</h3>
 
-<b>2018</b>: <a href="https://ultrafastlight.lebedev.ru/">UltrafastLight</a>
+<b>2018</b>: <a href="https://ultrafastlight.lebedev.ru/">UltrafastLight</a><br>
 <b>2016</b>: <a href="http://lpc.ifmo.ru/flamn16/">FLAMN</a>
 
 <h3>Reviewer</h3>
