@@ -9,8 +9,5 @@ main:
   - title: "Academic work"
     url: /academic_work/
 
-  - title: "CV"
-    url: /cv/
-
   - title: "Chinese language database"
     url: /database/

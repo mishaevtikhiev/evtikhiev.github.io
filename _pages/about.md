@@ -11,13 +11,15 @@ redirect_from:
 Hello! My name is Yaroslav Golubev, I am a senior researcher in the
 [Machine Learning Methods in Software Engineering](https://research.jetbrains.org/groups/ml_methods/) group at
 [JetBrains Research](https://research.jetbrains.org/). I obtained a Bachelor's degree in Applied Physics and a
-Master's degree in Laser Technologies from [ITMO University](https://en.itmo.ru/), and am currently getting
-a Bachelor's degree in Philosophy from [Herzen University](https://en.hspu.org/).
+Master's degree in Laser Technologies from [ITMO University](https://en.itmo.ru/), I am currently getting
+a Bachelor's degree in Philosophy from [Herzen University](https://en.hspu.org/) and plan to purse a PhD in
+Computer Science in the near future.
 
-The overarching theme of my studies is mining large volumes of existing source code and analyzing them to better 
-understand how developers write software and create tools that can help them do it more efficiently. While
+The overarching theme of my studies is mining large volumes of existing source code and analyzing it to discover various
+patterns and dependencies, better understand how developers write software, and create tools that can help them do it more efficiently. While
 I was lucky to participate in a number of fruitful and practical collaborations, my personal interest leans closer
 to the analytical and the descriptive side of things. Specific topics of my works include:
+
 * cross-project code clones,
 * licensing violations,
 * common patterns of code changes, 
