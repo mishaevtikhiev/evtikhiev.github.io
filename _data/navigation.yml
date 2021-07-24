@@ -9,5 +9,8 @@ main:
   - title: "Academic work"
     url: /academic_work/
 
+  - title: "Travels"
+    url: /travels/
+
   - title: "Chinese language database"
     url: /database/
