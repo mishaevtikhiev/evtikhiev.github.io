@@ -16,4 +16,12 @@ The database consists of two large parts: one is dedicated to the characters in 
 and the second one is dedicated to my own progress in learning the language and can help those who want to
 start learning it.
 
+The first part contains extensive lists of Chinese characters and statistics for them. There are a total of four lists:
+
+* The list of the Chinese characters by their frequency in the language, based on 
+  <a href="https://lingua.mtsu.edu/chinese-computing/statistics/">Jun Da's Modern Chinese Character Frequency List</a>.
+  This list contains a total of 9933 characters.
+* The list of the Chinese characters from the <a herf="https://en.wikipedia.org/wiki/Table_of_General_Standard_Chinese_Characters">General Standard</a>.
+  This list contains a total of 8105 characters: 3500 frequent, 3000 common, and 1605 rare, — and is the official standard.
+
 <img src="/images/database.jpg">
