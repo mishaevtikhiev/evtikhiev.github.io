@@ -23,7 +23,11 @@ author_profile: true
 
 <h3>Reviewer</h3>
 
+<b>2021</b>: <a href="https://2021.msrconf.org/track/msr-2021-shadow-pc?">MSR Shadow PC</a>
+
 <h3>Organizer</h3>
+
+<b>2021</b>: <a href="https://iwor.github.io/iwor2021/index.html">IWOR</a> (Proceedings Chair)
 
 <h2>University work</h2>
 
