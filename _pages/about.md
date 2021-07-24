@@ -17,8 +17,11 @@ a Bachelor's degree in Philosophy from [Herzen University](https://en.hspu.org/)
 The overarching theme of my studies is mining large volumes of existing source code and analyzing them to better 
 understand how developers write software and create tools that can help them do it more efficiently. While
 I was lucky to participate in a number of fruitful and practical collaborations, my personal interest leans closer
-to the analytical and the descriptive side of things. Specific topics of my works include cross-project code clones,
-licensing violations, common patterns of code changes, and test smells.
+to the analytical and the descriptive side of things. Specific topics of my works include:
+* cross-project code clones,
+* licensing violations,
+* common patterns of code changes, 
+* test smells.
 
 My main hobby outside the realm of software engineering is studying Chinese language and [sharing with people
 how awesome it is](https://areyde.com/database/). I also care deeply about Eastern philosophy — mainly, Taoism and
