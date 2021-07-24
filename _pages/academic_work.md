@@ -27,13 +27,14 @@ author_profile: true
 
 <h3>Organizer</h3>
 
-<b>2021</b>: <a href="https://iwor.github.io/iwor2021/index.html">IWoR</a> (Proceedings Chair)
+<b>2021</b>: <a href="https://iwor.github.io/iwor2021/index.html">IWoR</a> (Proceedings Chair)<br>
 <b>2016</b>: <a href="http://lpc.ifmo.ru/flamn16/">FLAMN</a> (Volunteer)
 
 <h2>University work</h2>
 
 <h3>Teaching</h3>
 
-<b>2021</b>: a lecturer in the <i>Structures and algorithms for computer data processing</i> course at Saint Petersburg State University.
+<b>2021</b>: a lecturer in the <i>Structures and algorithms for computer data processing</i> course at Saint Petersburg State University.<br>
+<b>2017–2020</b>: an organizer and a lecturer in the <i>School of Laser Technologies</i> at ITMO University.
 
 <h3>Curating</h3>
