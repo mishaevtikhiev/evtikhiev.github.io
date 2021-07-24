@@ -9,14 +9,16 @@ author_profile: true
 
 The Chinese language is my biggest hobby. While I am studying it in general too (passed the HSK 3 level and plan to pass HSK 4/5 soon),
 I enjoy learning and compiling facts about even more. Specifically, I love everything that has to do with the Chinese
-writing system, including learning the characters, studying their history, and practicing calligraphy. 
+writing system, including learning the characters, studying their history, and practicing calligraphy. The "discrete" nature
+of the Chinese language appeals to my love of statistics, because without grammatical forms and with a fixed set
+of used characters, everything in Chinese can be counted and analyzed.
 
 My biggest project in regard to the Chinese language is <b><a href="https://docs.google.com/spreadsheets/d/1SxoqHYYJOBF0TBHHkFJfwIR6RuQzfbr5c4wXn8cR54M/edit#gid=793622246">the Chinese language database (中文数据库)</a></b>.
 The database consists of two large parts: one is dedicated to the characters in general and can be of interest to anyone,
 and the second one is dedicated to my own progress in learning the language and can help those who want to
 start learning it.
 
-<h3>General information</h3>
+<h2>General information</h2>
 
 The first part contains extensive lists of Chinese characters and statistics for them. There are a total of four lists:
 
@@ -35,6 +37,11 @@ An additional list in the database is dedicated to compiling some statistics abo
 
 <img src="/images/database.jpg">
 
-<h3>Learning progress</h3>
+<h2>Learning progress</h2>
 
-The second part of the database
+The second part of the database describes my own learning progress and can be of use to anyone who decides to learn the language.
+The main sheet lists all the characters that I learned, their distribution among the frequency and the HSK levels, as well
+as the learned words and phrases. Additionally, the database tracks the progress in the set out goals: for example, learning
+all the HSK characters, learning 3,000 most frequent characters, etc.
+
+<b>I hope that the database can help you or make you interested in the Chinese language!</b>
