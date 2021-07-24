@@ -15,3 +15,5 @@ My biggest project in regard to the Chinese language is <a href="https://docs.go
 The database consists of two large parts: one is dedicated to the characters in general and can be of interest to anyone,
 and the second one is dedicated to my own progress in learning the language and can help those who want to
 start learning it.
+
+<img src="/images/database.jpg">
