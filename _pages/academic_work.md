@@ -39,6 +39,6 @@ author_profile: true
 
 <h3>Curating</h3>
 
-<b>2021</b><br>
-<p>Reviewer for the Bachelor's thesis of Alina Dzetselova, <i>"Recognizing images with signs of violence using convolutional neural networks"</i>, Saint Petersburg State University.</p>
+<b>2021</b>.<br>
+<p>Reviewer for the Bachelor's thesis of Alina Dzestelova, <i>"Recognizing images with signs of violence using convolutional neural networks"</i>, Saint Petersburg State University.</p>
 <p>Consultant for the Bachelor's thesis of Dmitry Pogrebnoy, <i>"Development of a software license compatibility check system"</i>, Saint Petersburg State University.</p>
