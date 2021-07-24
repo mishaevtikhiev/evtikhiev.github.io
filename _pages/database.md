@@ -28,7 +28,7 @@ The first part contains extensive lists of Chinese characters and statistics for
 * The list of the Chinese characters from the <a href="https://en.wikipedia.org/wiki/Hanyu_Shuiping_Kaosh">Hanyu Shuiping Kaoshi</a>,
   the main international exam for Chinese language. This list contains 2,663 characters and is split into levels of the exam.
   
-For all the characters in the lists, the database provides various data: pronounciation, meaning, dictionary keys, and stroke count.
+For all the characters in the lists, the database provides various data: pronunciation, meaning, dictionary keys, and stroke count.
 An additional list in the database is dedicated to compiling some statistics about all the 11,062 characters, like this:
 
 <img src="/images/database.jpg">
