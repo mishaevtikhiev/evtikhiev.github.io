@@ -16,4 +16,4 @@ The database consists of two large parts: one is dedicated to the characters in 
 and the second one is dedicated to my own progress in learning the language and can help those who want to
 start learning it.
 
-<img src="/images/database.jpg">
+<img src="https://areyde.com/mages/database.jpg">
