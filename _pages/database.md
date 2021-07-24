@@ -20,8 +20,17 @@ The first part contains extensive lists of Chinese characters and statistics for
 
 * The list of the Chinese characters by their frequency in the language, based on 
   <a href="https://lingua.mtsu.edu/chinese-computing/statistics/">Jun Da's Modern Chinese Character Frequency List</a>.
-  This list contains a total of 9933 characters.
+  This list contains a total of 9,933 characters.
 * The list of the Chinese characters from the <a herf="https://en.wikipedia.org/wiki/Table_of_General_Standard_Chinese_Characters">General Standard</a>.
-  This list contains a total of 8105 characters: 3500 frequent, 3000 common, and 1605 rare, — and is the official standard.
+  This list contains a total of 8,105 characters: 3500 frequent, 3000 common, and 1605 rare, — and is the official standard.
+* The full list of the Chinese characters that is obtained by merging the first two lists. This list contains 11,062 characters
+  and can be treated as the exhaustive list of characters, for which one can find the data in an automated way.
+* The list of the Chinese characters from the <a href="https://en.wikipedia.org/wiki/Hanyu_Shuiping_Kaosh">Hanyu Shuiping Kaoshi</a>,
+  the main international exam for Chinese language. This list contains 2,663 characters and is split into levels of the exam.
+  
+For all the characters in the lists, the database provides various data: pronounciation, meaning, dictionary keys, and stroke count.
+An additional list in the database is dedicated to compiling some statistics about all the 11,062 characters, like this:
 
 <img src="/images/database.jpg">
+
+The second part of the database
