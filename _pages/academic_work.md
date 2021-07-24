@@ -38,3 +38,6 @@ author_profile: true
 <b>2017–2020</b>: an organizer and a lecturer in the <i>School of Laser Technologies</i> at ITMO University.
 
 <h3>Curating</h3>
+
+<b>2021</b><br>
+Reviewer for the Bachelor's thesis of Alina Dzetselova, <i>"Recognizing images with signs of violence using convolutional neural networks"</i>, Saint Petersburg State University
