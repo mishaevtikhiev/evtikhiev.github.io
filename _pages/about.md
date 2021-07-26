@@ -15,10 +15,10 @@ Master's degree in Laser Technologies from [ITMO University](https://en.itmo.ru/
 a Bachelor's degree in Philosophy from [Herzen University](https://en.hspu.org/) and plan to purse a PhD in
 Computer Science in the near future.
 
-The overarching theme of my studies is mining large volumes of existing source code and analyzing it to discover various
+The overarching theme of [my studies](https://areyde.com/publications/) is mining large corpora of existing source code and analyzing them to discover various
 patterns and dependencies, better understand how developers write software, and create tools that can help them do it more efficiently. While
-I was lucky to participate in a number of fruitful and [practical collaborations](https://areyde.com/tools/), my personal interest leans closer
-to the analytical and the descriptive side of things. Specific topics of [my works](https://areyde.com/publications/) include:
+I was lucky to participate in a number of [practical collaborations](https://areyde.com/tools/), my personal interest leans closer
+to the analytical and the descriptive side of things. Specific topics of my works include:
 
 * cross-project code clones,
 * licensing violations,
