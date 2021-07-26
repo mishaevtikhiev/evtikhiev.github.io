@@ -7,8 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-<p><b><span style="color: #992017">Red</span></b> titles indicate published or accepted papers.</p>
-<p><b><span style="color: #888888">Grey</span></b> titles indicate pre-prints.</p>
+<p style="margin-bottom: 0px;"><b><span style="color: #992017">Red</span></b> titles indicate published or accepted papers.<br>
+<b><span style="color: #888888">Grey</span></b> titles indicate pre-prints.</p>
 
 <h2 >Software Engineering</h2>
 
