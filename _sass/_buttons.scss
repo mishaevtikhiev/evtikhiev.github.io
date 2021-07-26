@@ -170,4 +170,23 @@
       background-color: $link-color !important;
     }
   }
+
+  &--researchpreprint {
+    display: inline-block;
+    margin-bottom: 0.25em;
+    padding: 0.125em 0.25em;
+    color: #888888;
+    text-align: center;
+    text-decoration: none !important;
+    border: 1px solid;
+    border-color: #888888;
+    border-radius: $border-radius;
+    background-color: #fff !important;
+    cursor: pointer;
+
+    &:hover {
+      color: #fff;
+      background-color: #888888 !important;
+    }
+  }
 }
