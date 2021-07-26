@@ -72,23 +72,29 @@
             <b>{{ post.date | default: "1900-01-01" | date: "%B, %Y" }}</b>. Published in the {{ post.venue }}.</p>
           {% endif %}
 
+          {% if post.status == "preprint" %}
+          {% assign color = "btn" %}
+          {% else %}
+          {% assign color = "btn--research" %}
+          {% endif %}
+
           {% if post.paperurl %}
-          <a class="btn--research" href="{{ post.paperurl }}">DOI</a>
+          <a class="{{ color }}" href="{{ post.paperurl }}">DOI</a>
           {% endif %}
           {% if post.pdf %}
-          <a class="btn--research" href="{{ post.pdf }}">PDF</a>
+          <a class="{{ color }}" href="{{ post.pdf }}">PDF</a>
           {% endif %}
           {% if post.data %}
-          <a class="btn--research" href="{{ post.data }}">Data</a>
+          <a class="{{ color }}" href="{{ post.data }}">Data</a>
           {% endif %}
           {% if post.tool %}
-          <a class="btn--research" href="{{ post.tool }}">Tool</a>
+          <a class="{{ color }}" href="{{ post.tool }}">Tool</a>
           {% endif %}
           {% if post.github %}
-          <a class="btn--research" href="{{ post.github }}">GitHub</a>
+          <a class="{{ color }}" href="{{ post.github }}">GitHub</a>
           {% endif %}
           {% if post.video %}
-          <a class="btn--research" href="{{ post.video }}">Video</a>
+          <a class="{{ color }}" href="{{ post.video }}">Video</a>
           {% endif %}
         {% elsif post.collection == 'tools' %}
           {% if post.tag %}
