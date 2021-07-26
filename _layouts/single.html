@@ -57,7 +57,7 @@ layout: default
         {% endif %}
 
         {% if page.collection == 'publications' or page.collection == 'publicationsphysics' %}
-          {% if post.status == "preprint" %}
+          {% if page.status == "preprint" %}
           {% assign color = "btn--researchpreprint" %}
           {% else %}
           {% assign color = "btn--research" %}
