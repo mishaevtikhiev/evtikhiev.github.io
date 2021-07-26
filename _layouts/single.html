@@ -57,23 +57,29 @@ layout: default
         {% endif %}
 
         {% if page.collection == 'publications' or page.collection == 'publicationsphysics' %}
+          {% if post.status == "preprint" %}
+          {% assign color = "btn--researchpreprint" %}
+          {% else %}
+          {% assign color = "btn--research" %}
+          {% endif %}
+
           {% if page.paperurl %}
-          <a class="btn--research" href="{{ page.paperurl }}">DOI</a>
+          <a class="{{ color }}" href="{{ page.paperurl }}">DOI</a>
           {% endif %}
           {% if page.pdf %}
-          <a class="btn--research" href="{{ page.pdf }}">PDF</a>
+          <a class="{{ color }}" href="{{ page.pdf }}">PDF</a>
           {% endif %}
           {% if page.data %}
-          <a class="btn--research" href="{{ page.data }}">Data</a>
+          <a class="{{ color }}" href="{{ page.data }}">Data</a>
           {% endif %}
           {% if page.tool %}
-          <a class="btn--research" href="{{ page.tool }}">Tool</a>
+          <a class="{{ color }}" href="{{ page.tool }}">Tool</a>
           {% endif %}
           {% if page.github %}
-          <a class="btn--research" href="{{ page.github }}">GitHub</a>
+          <a class="{{ color }}" href="{{ page.github }}">GitHub</a>
           {% endif %}
           {% if page.video %}
-          <a class="btn--research" href="{{ page.video }}">Video</a>
+          <a class="{{ color }}" href="{{ page.video }}">Video</a>
           {% endif %}
         {% elsif page.collection == 'tools' %}
           {% if page.tool %}
