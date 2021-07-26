@@ -17,8 +17,8 @@ Computer Science in the near future.
 
 The overarching theme of my studies is mining large volumes of existing source code and analyzing it to discover various
 patterns and dependencies, better understand how developers write software, and create tools that can help them do it more efficiently. While
-I was lucky to participate in a number of fruitful and practical collaborations, my personal interest leans closer
-to the analytical and the descriptive side of things. Specific topics of my works include:
+I was lucky to participate in a number of fruitful and [practical collaborations](https://areyde.com/tools/), my personal interest leans closer
+to the analytical and the descriptive side of things. Specific topics of [my works](https://areyde.com/publications/) include:
 
 * cross-project code clones,
 * licensing violations,
@@ -27,5 +27,5 @@ to the analytical and the descriptive side of things. Specific topics of my work
 
 My main hobby outside the realm of software engineering is studying Chinese language and [sharing with people
 how awesome it is](https://areyde.com/database/). I also care deeply about Eastern philosophy — mainly, Taoism and
-Buddhism, — and enjoy philosophy in general. Finally, things that I love but would like to know more about include
-linguistics, history, and biology.
+Buddhism, — and enjoy philosophy in general. Finally, I am not an avid traveler, but I did write down 
+[all the places where I have been](https://areyde.com/travels/).
