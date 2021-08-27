@@ -29,3 +29,8 @@ My main hobby outside the realm of software engineering is [studying Chinese lan
 how awesome it is. I also care deeply about Eastern philosophy — mainly, Taoism and
 Buddhism, — and enjoy philosophy in general. Finally, I am not an avid traveler, but I did write down 
 [all the places where I have been](https://areyde.com/travels/).
+
+P. S. Why Areyde? When I was little, I wanted to be a knight, and I decided that I needed a knight name. Somehow, I don't really remember how, I came
+up with **Areyde** (pronounced _ah-ray-deh_). Maybe it had something to do with the word "raid" (they are spelled the same in Russian). In
+any case, it became my nickname since then. Later, I even decided on a surname for my knighthood — Elvgren, after an American
+pin-up artist [Gil Elvgren](https://en.wikipedia.org/wiki/Gil_Elvgren).
