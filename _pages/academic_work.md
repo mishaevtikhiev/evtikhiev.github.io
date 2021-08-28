@@ -38,7 +38,7 @@ author_profile: true
 <b>2021</b>: a lecturer in the <i>Structures and algorithms for computer data processing</i> course at <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.<br>
 <b>2017–2020</b>: an organizer and a lecturer in the <i>School of Laser Technologies</i> at <a href="https://en.itmo.ru/">ITMO University</a>.
 
-<h3>Curating</h3>
+<h3>Advising</h3>
 
 <b>2021</b>.<br>
 <p>Reviewer for the Bachelor's thesis of Alina Dzestelova, <i>"Recognizing images with signs of violence using convolutional neural networks"</i>, <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.</p>
