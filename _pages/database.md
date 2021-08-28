@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Chinese language database"
-permalink: /database/
+permalink: /chinese/
 author_profile: true
 ---
 

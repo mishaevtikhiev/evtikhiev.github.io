@@ -25,7 +25,7 @@ to the analytical and the descriptive side of things. Specific topics of my work
 * common patterns of code changes, 
 * test smells.
 
-My main hobby outside the realm of software engineering is [studying Chinese language](https://areyde.com/database/) and sharing with people
+My main hobby outside the realm of software engineering is [studying Chinese language](https://areyde.com/chinese/) and sharing with people
 how awesome it is. I also care deeply about Eastern philosophy — mainly, Taoism and
 Buddhism, — and enjoy philosophy in general. Finally, I am not an avid traveler, but I did write down 
 [all the places where I have been](https://areyde.com/travels/).
