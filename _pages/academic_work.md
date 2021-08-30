@@ -23,8 +23,8 @@ author_profile: true
 
 <h3>Reviewer</h3>
 
-<b>2022</b>: <a href="https://conf.researchr.org/track/msr-2022/msr-2022-technical-papers">MSR</a> (Technical Track)<br>
-<b>2021</b>: <a href="https://2021.msrconf.org/track/msr-2021-shadow-pc?">MSR</a> (Shadow PC), <a href="https://icsme2021.github.io/cfp/AEandROSETrack.html">ICSME</a> (Artifact Evaluation Track)
+<b>2022</b>: <a href="https://conf.researchr.org/track/msr-2022/msr-2022-technical-papers">MSR</a> (Technical Track PC)<br>
+<b>2021</b>: <a href="https://saner2021.shidler.hawaii.edu/tooltrack">SANER</a> (Tool Track Sub-reviewer), <a href="https://2021.msrconf.org/track/msr-2021-shadow-pc?">MSR</a> (Shadow PC), <a href="https://icsme2021.github.io/cfp/AEandROSETrack.html">ICSME</a> (Artifact Evaluation Track PC)
 
 <h3>Organizer</h3>
 
