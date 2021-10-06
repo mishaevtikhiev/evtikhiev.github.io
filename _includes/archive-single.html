@@ -97,6 +97,9 @@
           <a class="{{ color }}" href="{{ post.video }}">Video</a>
           {% endif %}
         {% elsif post.collection == 'tools' %}
+          {% if page.award %}
+          <p><span style="color:#ad7f00;"><b>{{ page.award }}</b></span></p>
+          {% endif %}
           {% if post.tag %}
           <p style="padding-top:0; margin-bottom:9px;">{{ post.tag }}</p>
           {% endif %}
