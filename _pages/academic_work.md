@@ -31,10 +31,16 @@ author_profile: true
 <b>2021</b>: <a href="https://iwor.github.io/iwor2021/index.html">IWoR</a> (Proceedings Chair)<br>
 <b>2016</b>: <a href="http://lpc.ifmo.ru/flamn16/">FLAMN</a> (Volunteer)
 
-<h2>University work</h2>
+<h3>Awardee</h3>
+<b>2021</b>: Best Tool Demo Award at <a href="https://icsme2021.github.io/">ICSME</a> (for <a href="https://areyde.com/tool/sorrel">Sorrel</a>)<br>
+
+<b>2016</b>.
+
+<h2>Education</h2>
 
 <h3>Teaching</h3>
 
+<b>2021–2022</b>: a lecturer and assistant in the <i>Basics of Machine Learning</i> course at several schools in Saint Petersburg.
 <b>2021</b>: a lecturer in the <i>Structures and algorithms for computer data processing</i> course at <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.<br>
 <b>2017–2020</b>: an organizer and a lecturer in the <i>School of Laser Technologies</i> at <a href="https://en.itmo.ru/">ITMO University</a>.
 
