@@ -98,10 +98,10 @@
           {% endif %}
         {% elsif post.collection == 'tools' %}
           {% if post.award %}
-          <p style="padding-top:0; padding-bottom:0; margin-bottom:0px;"><span style="color:#ad7f00;"><b>{{ post.award }}</b></span></p>
+          <p style="padding-top:0; padding-bottom:0; margin-bottom:-9px;"><span style="color:#ad7f00;"><b>{{ post.award }}</b></span></p>
           {% endif %}
           {% if post.tag %}
-          <p style="margin-bottom:9px;">{{ post.tag }}</p>
+          <p style="padding-top:0; margin-bottom:9px;">{{ post.tag }}</p>
           {% endif %}
           {% if post.tool %}
           <a class="btn--research" href="{{ post.tool }}">Tool</a>
