@@ -29,8 +29,9 @@ The first part contains extensive lists of Chinese characters and statistics for
   This list contains a total of <b>8,105</b> characters: 3500 frequent, 3000 common, and 1605 rare, — and is the official standard.
 * The full list of the Chinese characters that is obtained by merging the first two lists. This list contains <b>11,062</b> characters
   and can be treated as the exhaustive list of characters, for which one can find the data in an automated way.
-* The list of the Chinese characters from the <a href="https://en.wikipedia.org/wiki/Hanyu_Shuiping_Kaosh">Hanyu Shuiping Kaoshi</a>,
-  the main international exam for Chinese language. This list contains <b>2,663</b> characters and is split into levels of the exam.
+* The list of the Chinese characters from the <a href="https://en.wikipedia.org/wiki/Hanyu_Shuiping_Kaoshi">Hanyu Shuiping Kaoshi</a>,
+  the main international exam for Chinese language. This list is split into levels of the exam, contains <b>2,663</b> characters for the pre-2001
+  version of the exam and <b>3,000</b> characters for the post-2021 version of the exam.
   
 For all the characters in the lists, the database provides various data: pronunciation, meaning, dictionary keys, and stroke count.
 An additional list in the database is dedicated to compiling some statistics about all the 11,062 characters, like this:
