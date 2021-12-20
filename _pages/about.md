@@ -18,14 +18,16 @@ Computer Science in the near future.
 The overarching theme of [my studies](https://areyde.com/publications/) is mining large corpora of existing source code and analyzing them to discover various
 patterns and dependencies, better understand how developers write software, and create tools that can help them do it more efficiently. While
 I was lucky to participate in a number of [practical collaborations](https://areyde.com/tools/), my personal interest leans closer
-to the analytical and the descriptive side of things. Specific topics of my works include:
+to the analytical and the descriptive side of things. Oftentimes, I also help my colleagues in designing their studies and writing papers. 
+My main interests in the software engineering research are:
 
-* cross-project code clones,
-* licensing violations,
-* common patterns of code changes, 
+* code clones,
+* open-source software licenses,
+* code changes (patterns and automatic fixes), 
+* refactorings,
 * test smells.
 
 My main hobby outside the realm of software engineering is [studying Chinese language](https://areyde.com/chinese/) and sharing with people
-how awesome it is. I also care deeply about Eastern philosophy — mainly, Taoism and
-Buddhism, — and enjoy philosophy in general. Finally, I am not an avid traveler, but I did write down 
+how awesome it is. I also care deeply about Eastern philosophy — mainly, Taoism, Buddhism, and [Ājīvika](https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika) — and enjoy philosophy in general. 
+Finally, I am not an avid traveler, but I did write down 
 [all the places where I have been](https://areyde.com/travels/).
