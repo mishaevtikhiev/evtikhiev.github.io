@@ -40,14 +40,15 @@ author_profile: true
 <h3>Teaching</h3>
 
 <b>2021–2022</b>: a lecturer and assistant in the <i>Basics of Machine Learning</i> course at <a href="https://239.ru/">Saint Petersburg Lyceum 239</a> and <a href="http://www.school.ioffe.ru/">Saint Petersburg School of Physics and Engineering</a>.<br>
-<b>2021</b>: a lecturer in the <i>Structures and Algorithms for Computer Data Processing</i> course at <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.<br>
+<b>2021–2022</b>: a lecturer in the <i>Structures and Algorithms for Computer Data Processing</i> course at <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.<br>
 <b>2017–2020</b>: an organizer and a lecturer in the <i>School of Laser Technologies</i> at <a href="https://en.itmo.ru/">ITMO University</a>.
 
 <h3>Advising</h3>
 
 <b>2021</b>.<br>
-<p>Reviewer for the Bachelor's thesis of Alina Dzestelova, <i>"Recognizing images with signs of violence using convolutional neural networks"</i>, <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.</p>
+<p>Advisor for the research project of Olesya Subbotina, <i>"Creating a plugin to detect test smells in Python project"</i>, <a href="https://www.hse.ru/en/">HSE University</a>.</p>
 <p>Consultant for the Bachelor's thesis of Dmitry Pogrebnoy, <i>"Development of a software license compatibility check system"</i>, <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.</p>
+<p>Reviewer for the Bachelor's thesis of Alina Dzestelova, <i>"Recognizing images with signs of violence using convolutional neural networks"</i>, <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.</p>
 
 <h2>Other</h2>
 
