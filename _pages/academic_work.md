@@ -15,6 +15,7 @@ author_profile: true
 
 <h3>Author</h3>
 
+<b>2022</b>: <a href="https://saner2022.uom.gr/">SANER</a><br>
 <b>2021</b>: <a href="https://conf.researchr.org/home/ase-2021">ASE</a>, <a href="https://2021.esec-fse.org/">ESEC/FSE</a>, <a href="https://icsme2021.github.io/">ICSME</a>, <a href="https://iwsc2021.github.io/index.html">IWSC</a>, <a herf="https://iwor.github.io/iwor2021/">IWoR</a>, <a href="https://maltesque2021.github.io/submission.html">MaLTeSQuE</a>, <a href="https://saner2021.shidler.hawaii.edu/">SANER</a><br>
 <b>2020</b>: <a href="https://conf.researchr.org/home/ase-2020">ASE</a>, <a href="https://conf.researchr.org/track/icse-2020/icse-2020-Workshops">IWoR</a>, <a href="https://2020.msrconf.org/">MSR</a><br>
 <b>2019</b>: <a href="https://2019.ase-conferences.org/">ASE</a>, <a href="https://flamn.ifmo.ru/">FLAMN</a><br>
@@ -38,7 +39,7 @@ author_profile: true
 
 <h3>Teaching</h3>
 
-<b>2021–2022</b>: a lecturer and assistant in the <i>Basics of Machine Learning</i> course at several schools in Saint Petersburg. <br>
+<b>2021–2022</b>: a lecturer and assistant in the <i>Basics of Machine Learning</i> course at Saint Petersburg Lyceum 239 and Saint Petersburg School of Physics and Engineering. <br>
 <b>2021</b>: a lecturer in the <i>Structures and Algorithms for Computer Data Processing</i> course at <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.<br>
 <b>2017–2020</b>: an organizer and a lecturer in the <i>School of Laser Technologies</i> at <a href="https://en.itmo.ru/">ITMO University</a>.
 
