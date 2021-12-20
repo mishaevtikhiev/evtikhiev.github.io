@@ -28,6 +28,6 @@ My main interests in the software engineering research are:
 * test smells.
 
 My main hobby outside the realm of software engineering is [studying Chinese language](https://areyde.com/chinese/) and sharing with people
-how awesome it is. I also care deeply about Eastern philosophy — mainly, Taoism, Buddhism, and [Ājīvika](https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika) — and enjoy philosophy in general. 
+how awesome it is. I also care deeply about Eastern philosophy — mainly, Taoism, Buddhism, and [Ājīvika](https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika), — and enjoy philosophy in general. 
 Finally, I am not an avid traveler, but I did write down 
 [all the places where I have been](https://areyde.com/travels/).
