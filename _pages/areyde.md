@@ -12,7 +12,7 @@ remember how I selected it, but I ended up with **Areyde** (pronounced _ah-ray-d
 the word "raid", since they are spelled similarly in Russian. 
 
 I also had a sigil for Areyde — a white oak on the deep green background. One friend of mine drew Areyde as she imagined
-him, and I guess now I have this image to remind me of those times. But the name stuck with me.
+him, and I guess now I have this image to remind me of those times. And the name stuck.
 
 <img src="/images/areyde.jpg">
 
