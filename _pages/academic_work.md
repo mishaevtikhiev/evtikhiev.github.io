@@ -39,7 +39,7 @@ author_profile: true
 
 <h3>Teaching</h3>
 
-<b>2021–2022</b>: a lecturer and assistant in the <i>Basics of Machine Learning</i> course at Saint Petersburg Lyceum 239 and Saint Petersburg School of Physics and Engineering. <br>
+<b>2021–2022</b>: a lecturer and assistant in the <i>Basics of Machine Learning</i> course at <a href="https://239.ru/">Saint Petersburg Lyceum 239</a> and <a href="http://www.school.ioffe.ru/">Saint Petersburg School of Physics and Engineering</a>.<br>
 <b>2021</b>: a lecturer in the <i>Structures and Algorithms for Computer Data Processing</i> course at <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.<br>
 <b>2017–2020</b>: an organizer and a lecturer in the <i>School of Laser Technologies</i> at <a href="https://en.itmo.ru/">ITMO University</a>.
 
