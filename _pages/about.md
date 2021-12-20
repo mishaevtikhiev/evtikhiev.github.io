@@ -28,7 +28,7 @@ My main interests in the software engineering research are:
 * test smells,
 
 however, since I assist in a lot of different projects, I enjoyed the privilege of learning about and touching on all kinds of subjects,
-like embeddings of code, bug triage, serverless computing, and others. I also sometimes [teach, curate students, and review papers](https://areyde.com/academic_work/). 
+like embeddings of code, bug triage, serverless computing, and others. I also sometimes [teach, advise students, and review papers](https://areyde.com/academic_work/). 
 
 My main hobby outside the realm of software engineering is [studying Chinese language](https://areyde.com/chinese/) and sharing with people
 how awesome it is. I also care deeply about Eastern philosophy — mainly, Taoism, Buddhism, and [Ājīvika](https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika), — and enjoy philosophy in general. 
