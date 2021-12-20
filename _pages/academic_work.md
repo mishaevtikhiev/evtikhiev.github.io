@@ -45,10 +45,10 @@ author_profile: true
 
 <h3>Advising</h3>
 
-<b>2021</b>.<br>
-<p>Advisor for the research project of Olesya Subbotina, <i>"Creating a plugin to detect test smells in Python project"</i>, <a href="https://www.hse.ru/en/">HSE University</a>.</p>
-<p>Consultant for the Bachelor's thesis of Dmitry Pogrebnoy, <i>"Development of a software license compatibility check system"</i>, <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.</p>
-<p>Reviewer for the Bachelor's thesis of Alina Dzestelova, <i>"Recognizing images with signs of violence using convolutional neural networks"</i>, <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.</p>
+<b>2021</b>.<br><br>
+Advisor for the research project of Olesya Subbotina, <i>"Creating a plugin to detect test smells in Python project"</i>, <a href="https://www.hse.ru/en/">HSE University</a>.<br>
+Consultant for the Bachelor's thesis of Dmitry Pogrebnoy, <i>"Development of a software license compatibility check system"</i>, <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.<br>
+Reviewer for the Bachelor's thesis of Alina Dzestelova, <i>"Recognizing images with signs of violence using convolutional neural networks"</i>, <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.<br>
 
 <h2>Other</h2>
 
