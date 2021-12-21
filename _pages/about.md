@@ -32,7 +32,7 @@ like embeddings of code, bug triage, serverless computing, and others. I also so
 
 My main hobby outside the realm of software engineering is [studying Chinese language](https://areyde.com/chinese/) and sharing with people
 how awesome it is. I also care deeply about Eastern philosophy — mainly, Taoism, Buddhism, and [Ājīvika](https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika), — and enjoy philosophy in general. 
-Finally, I am not an avid traveler, but I did write down 
+Finally, while I am not an avid traveler, I did write down 
 [all the places where I have been](https://areyde.com/travels/).
 
 Feel free to drop me a line using any of the links on the left!
