@@ -19,7 +19,7 @@ The overarching theme of [my studies](https://areyde.com/publications/) is minin
 patterns and dependencies, better understand how developers write software, and create tools that can help them do it more efficiently. While
 I was lucky to participate in a number of [practical collaborations](https://areyde.com/tools/), my personal interest leans closer
 to the analytical and the descriptive side of things. Oftentimes, I also help my colleagues in designing their studies and writing papers. 
-My main interests in the software engineering research are:
+My main interests in the domain of software engineering are:
 
 * code clones,
 * open-source software licenses,
