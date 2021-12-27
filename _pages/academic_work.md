@@ -35,7 +35,7 @@ author_profile: true
 <h3>Awardee</h3>
 <b>2021</b>: Best Tool Demo Award at <a href="https://icsme2021.github.io/">ICSME</a> (for <a href="https://areyde.com/tool/sorrel">Sorrel</a>)<br>
 
-<hr color="#888888" size="4" noshade>
+<hr color="#888888" size="5" noshade>
 
 <h2>Education</h2>
 
@@ -57,6 +57,8 @@ author_profile: true
 
 <b>2020</b>: Master's thesis in Laser Technologies, <i>"Synthesizing selenium nanomaterials with antibacterial properties using laser ablation in liquid"</i>, <a href="https://en.itmo.ru/">ITMO University</a>. The text is <a href="https://areyde.com/files/master.pdf">available in Russian</a>.<br>
 <b>2018</b>: Bachelor's thesis in Applied Physics, <i>"Studying the influence of double-pulse femtosecond laser irradiation on the surface of metals"</i>, <a href="https://en.itmo.ru/">ITMO University</a> The text is <a href="https://areyde.com/files/bachelor.pdf">available in Russian</a>.
+
+<hr color="#888888" size="5" noshade>
 
 <h2>Other</h2>
 
