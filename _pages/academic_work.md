@@ -52,8 +52,8 @@ author_profile: true
 
 <h3>Theses</h3>
 
-<b>2020</b>: Bachelor's thesis in Laser Technologies, <i>"Synthesizing selenium nanomaterials with antibacterial properties using laser ablation in liquid."</i>, <a href="https://en.itmo.ru/">ITMO University</a>. The text is <a href="https://areyde.com/assets/files/master.pdf">available in Russian</a>.<br>
-<b>2018</b>: Bachelor's thesis in Applied Physics, <i>"Studying the influence of double-pulse femtosecond laser irradiation on the surface of metals"</i>, <a href="https://en.itmo.ru/">ITMO University</a> The text is <a href="https://areyde.com/assets/files/bachelor.pdf">available in Russian</a>.
+<b>2020</b>: Master's thesis in Laser Technologies, <i>"Synthesizing selenium nanomaterials with antibacterial properties using laser ablation in liquid"</i>, <a href="https://en.itmo.ru/">ITMO University</a>. The text is <a href="https://areyde.com/files/master.pdf">available in Russian</a>.<br>
+<b>2018</b>: Bachelor's thesis in Applied Physics, <i>"Studying the influence of double-pulse femtosecond laser irradiation on the surface of metals"</i>, <a href="https://en.itmo.ru/">ITMO University</a> The text is <a href="https://areyde.com/files/bachelor.pdf">available in Russian</a>.
 
 <h2>Other</h2>
 
