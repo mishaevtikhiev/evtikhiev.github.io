@@ -35,7 +35,7 @@ author_profile: true
 <h3>Awardee</h3>
 <b>2021</b>: Best Tool Demo Award at <a href="https://icsme2021.github.io/">ICSME</a> (for <a href="https://areyde.com/tool/sorrel">Sorrel</a>)<br>
 
-<hr color="#888888" size="4">
+<hr color="#888888" size="4" noshade>
 
 <h2>Education</h2>
 
@@ -47,8 +47,9 @@ author_profile: true
 
 <h3>Advising</h3>
 
-<b>2021</b>.<br>
+<b>2021–2022</b>.<br>
 – Advisor for the research project of Olesya Subbotina, <i>"Creating a plugin to detect test smells in Python projects"</i>, <a href="https://www.hse.ru/en/">HSE University</a>.<br>
+<b>2020–2021</b>.<br>
 – Consultant for the Bachelor's thesis of Dmitry Pogrebnoy, <i>"Development of a software license compatibility check system"</i>, <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.<br>
 – Reviewer for the Bachelor's thesis of Alina Dzestelova, <i>"Recognizing images with signs of violence using convolutional neural networks"</i>, <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.<br>
 
