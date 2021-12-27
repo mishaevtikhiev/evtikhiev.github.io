@@ -35,7 +35,7 @@ author_profile: true
 <h3>Awardee</h3>
 <b>2021</b>: Best Tool Demo Award at <a href="https://icsme2021.github.io/">ICSME</a> (for <a href="https://areyde.com/tool/sorrel">Sorrel</a>)<br>
 
-<hr color="black">
+<hr color="black" size="4">
 
 <h2>Education</h2>
 
