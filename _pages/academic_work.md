@@ -46,9 +46,14 @@ author_profile: true
 <h3>Advising</h3>
 
 <b>2021</b>.<br>
-Advisor for the research project of Olesya Subbotina, <i>"Creating a plugin to detect test smells in Python projects"</i>, <a href="https://www.hse.ru/en/">HSE University</a>.<br>
-Consultant for the Bachelor's thesis of Dmitry Pogrebnoy, <i>"Development of a software license compatibility check system"</i>, <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.<br>
-Reviewer for the Bachelor's thesis of Alina Dzestelova, <i>"Recognizing images with signs of violence using convolutional neural networks"</i>, <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.<br>
+– Advisor for the research project of Olesya Subbotina, <i>"Creating a plugin to detect test smells in Python projects"</i>, <a href="https://www.hse.ru/en/">HSE University</a>.<br>
+– Consultant for the Bachelor's thesis of Dmitry Pogrebnoy, <i>"Development of a software license compatibility check system"</i>, <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.<br>
+– Reviewer for the Bachelor's thesis of Alina Dzestelova, <i>"Recognizing images with signs of violence using convolutional neural networks"</i>, <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.<br>
+
+<h3>Theses</h3>
+
+<b>2020</b>: Bachelor's thesis in Laser Technologies, <i>"Synthesizing selenium nanomaterials with antibacterial properties using laser ablation in liquid."</i>, <a href="https://en.itmo.ru/">ITMO University</a>. The text is <a href="https://areyde.com/assets/files/master.pdf">available in Russian</a>.<br>
+<b>2018</b>: Bachelor's thesis in Applied Physics, <i>"Studying the influence of double-pulse femtosecond laser irradiation on the surface of metals"</i>, <a href="https://en.itmo.ru/">ITMO University</a> The text is <a href="https://areyde.com/assets/files/bachelor.pdf">available in Russian</a>.
 
 <h2>Other</h2>
 
