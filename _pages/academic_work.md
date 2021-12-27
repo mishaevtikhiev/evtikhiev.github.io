@@ -62,5 +62,5 @@ author_profile: true
 
 <h2>Other</h2>
 
-<b>2016–2018</b>: Worked as an assistant and an engineer in the International Laboratory of Laser Micro- and Nanotechnologies, as well as a secretary in the Foreign Students office at <a href="https://en.itmo.ru/">ITMO University</a>.<br>
+<b>2016–2018</b>: For short periods of time, worked as an assistant and an engineer in the International Laboratory of Laser Micro- and Nanotechnologies, as well as a secretary in the Foreign Students office at <a href="https://en.itmo.ru/">ITMO University</a>.<br>
 <b>2016</b>. Participated in the <a href="https://www.timeshighereducation.com/world-university-rankings/brics-emerging-economies-universities-summit-take-place-johannesburg">THE BRICS & Emerging Economies Universities Summit</a> as a representative of Russian students.
