@@ -16,7 +16,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-<h2 >Physics <span style="color: #888888">(2 papers)</span></h2>
+<h2 >Laser Technologies <span style="color: #888888">(2 papers)</span></h2>
 
 {% for post in site.publicationsphysics reversed %}
   {% include archive-single.html %}
