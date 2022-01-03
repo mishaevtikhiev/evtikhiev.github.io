@@ -3,7 +3,7 @@ title: "AntiCopyPaster: Extracting Code Duplicates As Soon As They Are Introduce
 authors: '<i>Anton Ivanov, Zarina Kurbatova, Yaroslav Golubev, Andrey Kirilenko, and Timofey Bryksin</i>'
 status: "preprint"
 collection: publications
-permalink: /publication/2021-12-30-anticopypaster
+permalink: /publication/2021-12-30-anti-copy-paster
 date: 2021-12-30
 venue: '<b>e-Print archive</b>'
 pdf: 'https://arxiv.org/pdf/2112.15230.pdf'
