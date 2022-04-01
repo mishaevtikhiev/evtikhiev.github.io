@@ -7,16 +7,17 @@ author_profile: true
 
 {% include base_path %}
 
-<p style="margin-bottom: -10px; padding-bottom: 0; color: #888888"><i><b><span style="color: #992017">Red</span></b> titles indicate published or accepted papers.<br>
-<b><span style="color: #888888">Grey</span></b> titles indicate pre-prints.</i></p>
+<p style="margin-bottom: -10px; padding-bottom: 0; color: #888888"><i><b>J</b> — Journal papers.<br>
+<b>C</b> — Conference papers.</i><br>
+<b>P</b> — Pre-prints.</p>
 
-<h2 >Software Engineering <span style="color: #888888">(17 published papers + 2 pre-prints)</span></h2>
+<h2 >Software Engineering</h2>
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-<h2 >Laser Technologies <span style="color: #888888">(2 published papers)</span></h2>
+<h2 >Laser Technologies</h2>
 
 {% for post in site.publicationsphysics reversed %}
   {% include archive-single.html %}
