@@ -4,7 +4,7 @@ authors: '<i>Nikolay Karasov, Aleksandr Khvorov, Roman Vasiliev, Yaroslav Golube
 status: "preprint"
 collection: publications
 permalink: /publication/2022-04-30-similarity-aggregation
-date: 22022-04-30
+date: 2022-04-30
 venue: "<b>e-Print archive</b>"
 pdf: 'https://arxiv.org/pdf/2205.00212.pdf'
 data: 'https://github.com/nkarasovd/AggregationModel'
