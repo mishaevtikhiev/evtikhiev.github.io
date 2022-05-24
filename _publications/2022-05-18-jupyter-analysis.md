@@ -3,8 +3,8 @@ title: "A Large-Scale Comparison of Python Code in Jupyter Notebooks and Scripts
 authors: '<i>Konstantin Grotov, Sergey Titov, Vladimir Sotnikov, Yaroslav Golubev, and Timofey Bryksin</i>'
 status: "accepted"
 collection: publications
-permalink: /publication/2022-05-23-jupyter-analysis
-date: 2022-05-23
+permalink: /publication/2022-05-18-jupyter-analysis
+date: 2022-05-18
 venue: "<b>MSR'22</b>"
 pdf: 'https://arxiv.org/pdf/2203.16718.pdf'
 tool: 'https://github.com/JetBrains-Research/Matroskin'
