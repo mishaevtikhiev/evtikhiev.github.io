@@ -54,6 +54,8 @@ author_profile: true
 <b>2020–2021</b>.<br>
 – Consultant for the Bachelor's thesis of Dmitry Pogrebnoy, <i>"Development of a software license compatibility check system"</i>, <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.<br>
 – Reviewer for the Bachelor's thesis of Alina Dzestelova, <i>"Recognizing images with signs of violence using convolutional neural networks"</i>, <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.<br>
+<b>2017–2018</b>.<br>
+– Advisor for the research project of Sofia Sviridova, Ekaterina Karpova, and Ivan Yakovlev, <i>"Analyzing pharmaceutical products by studying the spectra of their laser-induced plasma"</i>, School of Laser Technologies<a href="https://en.itmo.ru/">ITMO University</a>.<br>
 
 <h3>Theses</h3>
 
