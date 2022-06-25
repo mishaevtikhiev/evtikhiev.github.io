@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Hello!"
+excerpt: "Hello!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello! My name is Yaroslav Golubev, I am a senior researcher in the
+My name is Yaroslav Golubev, I am a senior researcher in the
 [Machine Learning Methods in Software Engineering group](https://research.jetbrains.org/groups/ml_methods/) at
 [JetBrains Research](https://research.jetbrains.org/), under the supervision of [Timofey Bryksin](https://jzuken.github.io/).  
 I obtained a Bachelor's degree in Applied Physics and a
