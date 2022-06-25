@@ -2,6 +2,7 @@
 title: "Lupa"
 collection: tools
 permalink: /tool/lupa
+paperurl: 'https://doi.org/10.1145/3524842.3528477'
 tool: 'https://github.com/JetBrains-Research/Lupa'
 pdf: 'https://arxiv.org/pdf/2203.09658.pdf'
 tag: 'A framework for the large scale analysis of programming language usage.'
