@@ -45,6 +45,7 @@ author_profile: true
 <b>2021–2022</b>: a co-lecturer and assistant in the <i>"Basics of Machine Learning"</i> course at <a href="https://239.ru/">Saint Petersburg Lyceum 239</a> and <a href="http://www.school.ioffe.ru/">Saint Petersburg School of Physics and Engineering</a>.<br>
 <b>2021–2022</b>: a co-lecturer and assistant in the <i>"Structures and Algorithms for Computer Data Processing"</i> course at <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.<br>
 <b>2017–2020</b>: an organizer, lecturer, and scientific advisor in the <i>School of Laser Technologies</i> at <a href="https://en.itmo.ru/">ITMO University</a>.
+<b>2014–2020</b>: an invited lecturer at my local school, popularizing various subjects to students: classical Russian literature, linguistics, laster physics, computer science.
 
 <h3>Advising</h3>
 
@@ -64,4 +65,4 @@ author_profile: true
 <h2>Other</h2>
 
 <b>2016–2018</b>: For short periods of time, worked as an assistant and an engineer in the International Laboratory of Laser Micro- and Nanotechnologies, as well as a secretary in the Foreign Students office at <a href="https://en.itmo.ru/">ITMO University</a>.<br>
-<b>2016</b>. Participated in the <a href="https://www.timeshighereducation.com/world-university-rankings/brics-emerging-economies-universities-summit-take-place-johannesburg">THE BRICS & Emerging Economies Universities Summit</a> as a representative of Russian students.
+<b>2016</b>. Participated in the <a href="https://www.timeshighereducation.com/world-university-rankings/brics-emerging-economies-universities-summit-take-place-johannesburg">THE BRICS & Emerging Economies Universities Summit</a> as a representative of Russian students. The recording of the panel where I participated is <a href='https://www.youtube.com/watch?v=L_BkvQB0yzc'>available online</a>.
