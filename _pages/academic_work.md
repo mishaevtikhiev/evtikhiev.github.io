@@ -24,7 +24,7 @@ author_profile: true
 
 <h3>Reviewer</h3>
 
-<b>2022</b>: <a href="https://conf.researchr.org/track/ase-2022/ase-2022-research-papers">ASE</a> (Research Track Sub-reviewer), <a herf="https://2022.esec-fse.org/track/fse-2022-industry">FSE</a> (Industry Track Sub-reviewer), <a href="https://cyprusconferences.org/icsme2022/new-ideas-and-emerging-results/">ICSME</a> (Artifact Evaluation Track PC, NIER Track PC), <a href="https://conf.researchr.org/track/msr-2022/msr-2022-technical-papers">MSR</a> (Technical Track PC, Data and Tool Showcase Track Sub-reviewer), <a href="https://seim-conf.org/en/">SEIM</a> (Sub-reviewer)<br>
+<b>2022</b>: <a href="https://conf.researchr.org/track/ase-2022/ase-2022-research-papers">ASE</a> (Research Track Sub-reviewer), <a herf="https://2022.esec-fse.org/track/fse-2022-industry">FSE</a> (Industry Track Sub-reviewer), <a href="https://cyprusconferences.org/icsme2022/new-ideas-and-emerging-results/">ICSME</a> (Artifact Evaluation Track PC, NIER Track PC), <a href="https://iwor.github.io/iwor2022/">IWoR</a> (PC), <a href="https://conf.researchr.org/track/msr-2022/msr-2022-technical-papers">MSR</a> (Technical Track PC, Data and Tool Showcase Track Sub-reviewer), <a href="https://seim-conf.org/en/">SEIM</a> (Sub-reviewer)<br>
 <b>2021</b>: <a href="https://icsme2021.github.io/cfp/AEandROSETrack.html">ICSME</a> (Artifact Evaluation Track PC), <a href="https://2021.msrconf.org/track/msr-2021-shadow-pc?">MSR</a> (Shadow PC), <a href="https://saner2021.shidler.hawaii.edu/tooltrack">SANER</a> (Tool Track Sub-reviewer)
 
 <h3>Organizer</h3>
@@ -45,7 +45,7 @@ author_profile: true
 <b>2021–2022</b>: a co-lecturer and assistant in the <i>"Basics of Machine Learning"</i> course at <a href="https://239.ru/">Saint Petersburg Lyceum 239</a> and <a href="http://www.school.ioffe.ru/">Saint Petersburg School of Physics and Engineering</a>.<br>
 <b>2021–2022</b>: a co-lecturer and assistant in the <i>"Structures and Algorithms for Computer Data Processing"</i> course at <a href="https://english.spbu.ru/">Saint Petersburg State University</a>.<br>
 <b>2017–2020</b>: an organizer, lecturer, and scientific advisor in the <i>School of Laser Technologies</i> at <a href="https://en.itmo.ru/">ITMO University</a>.<br>
-<b>2014–2020</b>: an invited lecturer at <a href='http://s526.spb.ru/'>my local school</a>, reading lecture courses and popularizing various subjects to students, including classical Russian literature, linguistics, laser physics, computer science.
+<b>2014–2020</b>: an invited lecturer at <a href='http://s526.spb.ru/'>my local school</a>, reading lecture courses and popularizing various subjects to students, including classical Russian literature, linguistics, laser physics, and computer science.
 
 <h3>Advising</h3>
 
