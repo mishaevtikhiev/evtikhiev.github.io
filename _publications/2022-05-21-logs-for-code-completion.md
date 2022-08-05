@@ -5,7 +5,7 @@ status: "accepted"
 collection: publications
 permalink: /publication/2022-11-14-logs-for-code-completion
 date: 2022-11-14
-venue: "<b>FSE'2022</b>"
+venue: "<b>ESEC/FSE'22</b>"
 level: 'A*'
 pdf: 'https://arxiv.org/pdf/2205.10692.pdf'
 counter_id: 'C18'
