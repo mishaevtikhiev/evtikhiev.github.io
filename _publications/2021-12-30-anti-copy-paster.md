@@ -1,11 +1,11 @@
 ---
 title: "AntiCopyPaster: Extracting Code Duplicates As Soon As They Are Introduced in the IDE"
-authors: '<i>Eman Abdullah AlOmar, Anton Ivanov, Zarina Kurbatova, Yaroslav Golubev, Mohamed Wiem Mkaouer, Ali Ouni, Timofey Bryksin, Le Nguyen, Amit Kini, Aditya Thakur</i>'
+authors: '<i>Eman Abdullah AlOmar, Anton Ivanov, Zarina Kurbatova, Yaroslav Golubev, Mohamed Wiem Mkaouer, Ali Ouni, Timofey Bryksin, Le Nguyen, Amit Kini, and Aditya Thakur</i>'
 status: "accepted"
 collection: publications
 permalink: /publication/2022-10-10-anti-copy-paster
 date: 2022-10-10
-venue: '<b>ASE'22</b>'
+venue: "<b>ASE'22</b>"
 pdf: 'https://arxiv.org/pdf/2112.15230.pdf'
 level: 'A*'
 tool: 'https://github.com/JetBrains-Research/anti-copy-paster'
