@@ -12,6 +12,9 @@ main:
   - title: "Travels"
     url: /travels/
 
+  - title: "Поэзия"
+    url: /poetry/
+
   - title: "中文数据库"
     url: /chinese/
 
