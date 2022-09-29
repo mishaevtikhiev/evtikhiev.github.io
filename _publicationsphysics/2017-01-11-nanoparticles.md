@@ -2,7 +2,7 @@
 title: "Evolution of Thin Silver Films Under Exposure to Laser Pulses In the Air"
 authors: '<i>Eduard Ageev, Ilnur Aminov, Mikhail Baranov, Yaroslav Golubev, Galina Odintsova, and Pavel Varlamov</i>'
 collection: publications
-permalink: /publication/2017-01-11-nanoparticles
+permalink: /publications/2017-01-11-nanoparticles
 date: 2017-01-11
 venue: "<b>Optical and Quantum Electronics</b>"
 paperurl: 'https://doi.org/10.1007/s11082-016-0874-6'

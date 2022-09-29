@@ -2,7 +2,7 @@
 title: "Dynamic All-Optical Control In Ultrashort Double-Pulse Laser Ablation"
 authors: '<i>Sergey Kudryashov, Andrey Samokhvalov, Yaroslav Golubev, Dmitry Ivanov, Martin Garcia, Vadim Veiko, Baerbel Rethfeld, and Vladimir Mikhailovskii</i>'
 collection: publications
-permalink: /publication/2021-01-30-femtosecond
+permalink: /publications/2021-01-30-femtosecond
 date: 2021-01-30
 venue: "<b>Applied Surface Science</b>"
 paperurl: 'https://doi.org/10.1016/j.apsusc.2020.147940'

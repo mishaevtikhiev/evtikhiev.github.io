@@ -1,7 +1,7 @@
 ---
 title: "Matroskin"
 collection: tools
-permalink: /tool/matroskin
+permalink: /tools/matroskin
 paperurl: 'https://doi.org/10.1145/3524842.3528447'
 tool: 'https://github.com/JetBrains-Research/Matroskin'
 pdf: 'https://arxiv.org/pdf/2203.16718.pdf'

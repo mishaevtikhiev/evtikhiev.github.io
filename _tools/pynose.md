@@ -1,7 +1,7 @@
 ---
 title: "PyNose"
 collection: tools
-permalink: /tool/pynose
+permalink: /tools/pynose
 pdf: 'https://arxiv.org/pdf/2108.04639.pdf'
 tool: "https://github.com/JetBrains-Research/PyNose"
 paperurl: 'https://doi.org/10.1109/ASE51524.2021.9678615'
