@@ -13,7 +13,7 @@ author_profile: true
 
 <hr color="#888888" size="4" noshade>
 
-<b>"Чугунный год в хрустальный век…"</b> — 09.11.2022*
+<b>"Чугунный год в хрустальный век…"</b> — 09.11.2022 ⓘ
 
 <b><a href="https://areyde.com/poetry/2022-10-27">"Товарищ аббат, меня совесть терзает…"</a></b>  — 27.10.2022
 
@@ -36,3 +36,5 @@ author_profile: true
 <b><a href="https://areyde.com/poetry/2019-11-26">"Вся жизнь нам мельница…"</a></b> — 26.11.2019
 
 <hr color="#888888" size="4" noshade>
+
+ⓘ Explanation.
