@@ -10,11 +10,19 @@ redirect_from:
 
 My name is Yaroslav Golubev, I am a senior researcher in the
 [Machine Learning Methods in Software Engineering group](https://research.jetbrains.org/groups/ml_methods/) at
-[JetBrains Research](https://research.jetbrains.org/), under the supervision of [Timofey Bryksin](https://jzuken.github.io/).  
-I obtained a Bachelor's degree in Applied Physics and a
-Master's degree in Laser Technologies from [ITMO University](https://en.itmo.ru/), I am currently getting
-a Bachelor's degree in Philosophy from [Herzen University](https://en.hspu.org/) and plan to purse a PhD in
-Computer Science in the near future.
+[JetBrains Research](https://research.jetbrains.org/), under the supervision of [Timofey Bryksin](https://jzuken.github.io/).
+
+<h2>Background</h2>
+
+In 2018, I obtained a Bachelor's degree in Applied Physics from [ITMO University](https://en.itmo.ru/), focusing on laser
+technologies, and planned to become a researcher in this field. While there, I worked as a lab assistant, a guide in the educational museum of optics, as well as a
+secretary in the Foreign Students office, and also participated in the <a href="https://www.timeshighereducation.com/world-university-rankings/brics-emerging-economies-universities-summit-take-place-johannesburg">THE BRICS & Emerging Economies Universities Summit</a>
+as a representative of Russian students. Every summer, I also worked as a camp leader in summer camps. In 2020, I obtained a Master's degree in Laser Technologies from the same university,
+with a specialization in biological and medical applications. During the first year, I worked as an engineer in the lab and a scientific
+interviewer in the university's news portal. In 2019, I joint JetBrains, and fell in love with Data Science. Since 2020, I am also getting
+a Bachelor's degree in Philosophy from [Herzen University](https://en.hspu.org/), with a specific deep interest in Chinese and Indian philosophy.
+
+<h2>Research</h2>
 
 The overarching theme of [my studies](https://areyde.com/publications/) is mining large corpora of existing source code and analyzing them to discover various
 patterns and dependencies, better understand how developers write software, and create tools that can help them do it more efficiently. While
@@ -30,6 +38,8 @@ My main interests in the domain of software engineering are:
 
 however, since I assist in a lot of different projects, I enjoyed the privilege of learning about and touching on all kinds of subjects,
 like embeddings of code, bug triage, serverless computing, and others. I also sometimes [teach classes, advise students, and serve at various conferences](https://areyde.com/academic_work/). 
+
+<h2>Hobbies</h2>
 
 My main hobby outside the realm of software engineering is studying Chinese language and [sharing with people
 how awesome it is](https://areyde.com/chinese/). I also care deeply about Eastern philosophy — mainly, Taoism, Buddhism, and [Ājīvika](https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika), — and enjoy philosophy in general. 
