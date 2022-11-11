@@ -18,9 +18,13 @@ I also enjoy philosophy, linguistics, history, study the Chinese language and cu
 In 2018, I obtained a Bachelor's degree in Applied Physics from [ITMO University](https://en.itmo.ru/), focusing on laser
 technologies, and planned to become a researcher in this field. While there, I worked as a lab assistant, a guide in the educational museum of optics, as well as a
 secretary in the Foreign Students office, and also participated in the <a href="https://www.timeshighereducation.com/world-university-rankings/brics-emerging-economies-universities-summit-take-place-johannesburg">THE BRICS & Emerging Economies Universities Summit</a>
-as a representative of Russian students. Every summer, I also worked as a camp leader in summer camps. In 2020, I obtained a Master's degree in Laser Technologies from the same university,
+as a representative of Russian students. Every summer, I also worked as a camp leader in summer camps. 
+
+In 2020, I obtained a Master's degree in Laser Technologies from the same university,
 with a specialization in biological and medical applications. During the first year, I worked as an engineer in the lab and a scientific
-interviewer in the university's news portal. In 2019, I joint JetBrains, and fell in love with Data Science. Since 2020, I am also getting
+interviewer in the university's news portal. Then, I joined JetBrains and fell in love with Data Science. 
+
+Since 2020, I am also getting
 a Bachelor's degree in Philosophy from [Herzen University](https://en.hspu.org/), with a specific deep interest in Chinese and Indian philosophy.
 
 <h2 style="margin-top: -5px;">Research</h2>
