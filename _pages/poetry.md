@@ -13,6 +13,8 @@ author_profile: true
 
 <hr color="#888888" size="4" noshade>
 
+<b><a href="https://areyde.com/poetry/2022-11-29">"Берлин. Начинался семнадцатый год…"</a></b> — 29.11.2022
+
 <b><a href="https://areyde.com/poetry/2022-11-09">"Чугунный год в хрустальный век…"</a></b> — 09.11.2022 
 
 <b><a href="https://areyde.com/poetry/2022-10-27">"Товарищ аббат, меня совесть терзает…"</a></b>  — 27.10.2022
