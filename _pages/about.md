@@ -18,7 +18,7 @@ I also enjoy philosophy, linguistics, history, study the Chinese language and cu
 In 2018, I obtained a Bachelor's degree in Applied Physics from [ITMO University](https://en.itmo.ru/), focusing on laser
 technologies, and planned to become a researcher in this field. While there, I worked as a lab assistant, a guide in the educational museum of optics, as well as a
 secretary in the Foreign Students office, and participated in the <a href="https://www.timeshighereducation.com/world-university-rankings/brics-emerging-economies-universities-summit-take-place-johannesburg">THE BRICS & Emerging Economies Universities Summit</a>
-as a representative of Russian students. Every summer, I also worked as a camp leader in summer camps. 
+as a representative of Russian students. Every summer, I also worked as a camp leader. 
 
 In 2020, I obtained a Master's degree in Laser Technologies from the same university,
 with a specialization in biological and medical applications. During the first year, I worked as an engineer in the lab and a scientific
