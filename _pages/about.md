@@ -29,8 +29,8 @@ interviewer in the university's news portal. Then, I joined JetBrains and fell i
 The overarching theme of [my studies](https://areyde.com/publications/) is mining large corpora of existing source code and analyzing them to discover various
 patterns and dependencies, better understand how developers write software, and create tools that can help them do it more efficiently. While
 I was lucky to participate in a number of [practical collaborations](https://areyde.com/tools/), my personal interest leans closer
-to the analytical and the descriptive side of things. Oftentimes, I also help my colleagues in designing their studies and writing papers. 
-My main interests in the domain of software engineering are:
+to the analytical and the descriptive side of things. I also help my colleagues in designing their studies and writing papers, and generally enjoy various kinds of 
+writing, administrative, and supporting work. My main interests in the domain of software engineering are:
 
 * code clones,
 * open-source software licenses,
@@ -46,11 +46,11 @@ all of which I really love doing.
 <h2 style="margin-top: -5px;">Hobbies</h2>
 
 My main hobby outside the realm of software engineering is philosophy.
-While I love and try to read all philosophy in general, I care especially deeply about Eastern philosophy — mainly, Taoism, Buddhism, and [Ājīvika](https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika).
+While I love all philosophy in general, I care especially deeply about Eastern philosophy — mainly, Taoism, Buddhism, and [Ājīvika](https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika).
 As far as specific studies go, I am most interested in ontology, natural philosophy, and the problem of free will.
 Sometimes together with philosophy, sometimes separate, I also really love the studies of religions and the history of religious thought.
 
-Another big love of mine is the Chinese language and [sharing with people how awesome it is](https://areyde.com/chinese/). 
+Another major love of mine is the Chinese language and [sharing with people how awesome it is](https://areyde.com/chinese/). 
 In addition to learning it, I love analyzing its content, popularity, history, and evolution. In general, 
 I am interested in all major humanitarian fields, especially linguistics and history. In my free time, I sometimes 
 [write a little poetry](https://areyde.com/poetry/) (in Russian).
