@@ -48,7 +48,7 @@ all of which I really love doing.
 My main hobby outside the realm of software engineering is philosophy.
 While I love all philosophy in general, I care especially deeply about Eastern philosophy — mainly, Taoism, Buddhism, and [Ājīvika](https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika).
 As far as specific studies go, I am most interested in ontology, natural philosophy, and the problem of free will.
-Sometimes together with philosophy, sometimes separate, I also really love the studies of religions and the history of religious thought.
+Sometimes together with philosophy, sometimes separately, I also really love the studies of religions and the history of religious thought.
 
 Another major love of mine is the Chinese language and [sharing with people how awesome it is](https://areyde.com/chinese/). 
 In addition to learning it, I love analyzing its content, popularity, history, and evolution. In general, 
