@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-The Chinese language is my biggest hobby. While I am studying it in general too (passed the HSK 3 level a couple of years back and plan to pass HSK 5 soon),
+The Chinese language is a great hobby of mine. While I am studying it in general too (passed the HSK 3 level a couple of years back and plan to pass HSK 5 soon),
 I enjoy learning and compiling facts about even more. Specifically, I love everything that has to do with the Chinese
 writing system, including learning the characters, studying their history, and practicing calligraphy. The "discrete" nature
 of the Chinese language appeals to my love of statistics, because without grammatical forms and with a fixed set
@@ -20,7 +20,7 @@ start learning it.
 
 <h2>General information</h2>
 
-The first part contains extensive lists of Chinese characters and words, as well as statistics for them. There are a total of <b>eight</b> lists:
+The first part contains extensive lists of Chinese characters and words with statistics for them. There are a total of <b>eight</b> lists:
 
 * Five lists of Chinese <b>characters</b>:
     - The list of the Chinese characters by their frequency in the language, based on 
