@@ -9,14 +9,14 @@ main:
   - title: "Academic work"
     url: /academic_work/
 
-  - title: "Travels"
-    url: /travels/
-
   - title: '"Всеприродность"'
     url: /poetry/
 
   - title: "中文数据库"
     url: /chinese/
+
+  - title: "Travels"
+    url: /travels/
 
   - title: 'Why "Areyde"?'
     url: /areyde/
