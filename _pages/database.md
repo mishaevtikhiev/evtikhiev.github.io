@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Chinese language database"
+title: "Chinese language database (中文数据库)"
 permalink: /chinese/
 author_profile: true
 ---
