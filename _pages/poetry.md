@@ -17,6 +17,10 @@ author_profile: true
 
 <hr color="#888888" size="4" noshade>
 
+<b><a href="https://areyde.com/poetry/2023-01-10">"Сегодня я шёл, и прошёл мимо боли…"</a></b> — 10.01.2023
+
+<hr color="#888888" size="4" noshade>
+
 <b><a href="https://areyde.com/poetry/2022-12-01">"Зима пришла, зиме дорогу…"</a></b> — 01.12.2022
 
 <b><a href="https://areyde.com/poetry/2022-11-29">"Берлин. Начинался семнадцатый год…"</a></b> — 29.11.2022
