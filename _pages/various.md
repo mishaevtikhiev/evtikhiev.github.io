@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ''
+title: 'Various stuff'
 permalink: /various/
 author_profile: true
 ---
