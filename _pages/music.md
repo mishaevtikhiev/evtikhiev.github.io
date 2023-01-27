@@ -11,7 +11,7 @@ In 2017–2019, my friends and I were recording a lot of random music for fun. T
 unlistenable, but sometimes (when someone could sing) it was barely tolerable! Here, I save three random songs and an "album cover"
 that we drew right on the wallpaper of my apartment in the burst of inspiration.
 
-<table border="0" cellspacing="0" cellpadding="0" style="border: none">
+<table border="0" cellspacing="0" cellpadding="0" style="border: none; font-size: 100%">
 <tbody>
 <tr  style="border: none">
 <td  style="border: none"><b>And I Love Her</b> (The Beatles)</td>
