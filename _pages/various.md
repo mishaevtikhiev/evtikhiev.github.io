@@ -9,6 +9,8 @@ author_profile: true
 
 <p style="color:#888888;"><i>On this page, I try to list various cool stuff that I would like to save for one reason or another.</i></p>
 
+<b>2023</b>: <b><a href="https://areyde.com/philosophy/">The timeline of Western philosophy</a></b>
+
 <b>2019</b>: <b><a href="https://areyde.com/interviews/">Interviews with researchers at ITMO University</a></b>
 
 <b>2016</b>: <b><a href="https://areyde.com/brics/">THE BRICS & Emerging Economies Universities Summit</a></b>
