@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: 'Схема героев романа "Война и Мир"'
-permalink: /areyde/
+permalink: /war_and_peace/
 author_profile: true
 ---
 
