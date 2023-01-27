@@ -20,4 +20,4 @@ reminding you that some philosophers from the "same" period were as far away fro
 
 <img src="/images/philosophy_ancient.png">
 
-Future eras incoming: Medieval, Renaissance, Modern, and Contemporary. Hopefully, Chinese philosophy too at some point.
+<p style="color:#888888;"><i>Coming soon: Medieval, Renaissance, Modern, and Contemporary philosophy. Hopefully, Chinese philosophy too.</i></p>
