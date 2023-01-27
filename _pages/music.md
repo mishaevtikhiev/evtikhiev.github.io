@@ -7,10 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
-<table>
+In 2017–2019, my friends and I were recording a lot of random music for fun. The vast majority of it was completely
+unlistenable, but sometimes (when someone could sing) it was barely tolerable! Here, I save three random songs and an "album cover"
+that we drew right on the wallpaper of my apartment in the burst of inspiration.
+
+<table border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-<td>And I Love Her (The Beatles)&nbsp;</td>
+<td><b>And I Love Her</b> (The Beatles)</td>
 <td>
 <audio controls>
   <source src="/music/and_i_love_her.mp3" type="audio/mpeg">
@@ -19,22 +23,25 @@ Your browser does not support the audio element.
 </td>
 </tr>
 <tr>
-<td>Лето (Зоопарк)</td>
-<td>&nbsp;</td>
+<td><b>Across the Universe</b> (The Beatles)</td>
+<td>
+<audio controls>
+  <source src="/music/across_the_universe.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+</td>
 </tr>
 <tr>
-<td>Алюминиевые огурцы (Кино)&nbsp;</td>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td>Сельва (Кино)&nbsp;</td>
-<td>&nbsp;</td>
-</tr>
-<tr>
-<td>Main Man (T. Rex)&nbsp;</td>
-<td>&nbsp;</td>
+<td><b>Main Man</b> (T. Rex)</td>
+<td>
+<audio controls>
+  <source src="/music/main_man.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+</td>
 </tr>
 </tbody>
 </table>
 
+<img src="/images/album_cover.jpg">
 
