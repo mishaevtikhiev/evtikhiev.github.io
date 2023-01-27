@@ -21,8 +21,8 @@ secretary in the Foreign Students office, and participated in the [THE BRICS & E
 as a representative of Russian students. Every summer, I also worked as a camp leader. 
 
 In 2020, I obtained a Master's degree in Laser Technologies from the same university,
-with a specialization in biological and medical applications. During the first year, I worked as an engineer in the lab and a scientific
-interviewer in the university's news portal. Then, I joined JetBrains and fell in love with Data Science.
+with a specialization in biological and medical applications. During the first year, I worked as an engineer in the lab and a 
+[scientific interviewer](https://areyde.com/interviews/) in the university's news portal. Then, I joined JetBrains and fell in love with Data Science.
 
 <h2 style="margin-top: -5px;">Research</h2>
 
@@ -45,7 +45,7 @@ all of which I really love doing.
 
 <h2 style="margin-top: -5px;">Hobbies</h2>
 
-My main hobby outside the realm of software engineering is philosophy.
+My main hobby outside the realm of software engineering is [philosophy](https://areyde.com/philosophy/).
 While I love all philosophy in general, I care especially deeply about Eastern philosophy — mainly, Taoism, Buddhism, and [Ājīvika](https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika).
 As far as specific studies go, I am most interested in ontology, natural philosophy, and the problem of free will.
 Sometimes together with philosophy, sometimes separately, I also really love the studies of religions and the history of religious thought.
