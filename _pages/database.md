@@ -14,7 +14,7 @@ of the Chinese language appeals to my love of statistics, because without gramma
 of used characters, everything in Chinese can be counted and analyzed.
 
 My biggest project in regard to the Chinese language is <b><a href="https://docs.google.com/spreadsheets/d/1SxoqHYYJOBF0TBHHkFJfwIR6RuQzfbr5c4wXn8cR54M/edit#gid=793622246">the Chinese language database (中文数据库)</a></b>.
-The database consists of two large parts: one is dedicated to the languages in general and can be of interest to anyone,
+The database consists of two large parts: one is dedicated to the language in general and can be of interest to anyone,
 and the second one is dedicated to my own progress in learning the language and can help those who want to
 start learning it.
 
@@ -32,18 +32,18 @@ The first part contains extensive lists of Chinese characters and words with sta
       and can be treated as the exhaustive list of characters, for which one can find the data in an automated way.
     - The list of the Chinese characters from the <a href="https://en.wikipedia.org/wiki/Hanyu_Shuiping_Kaoshi">Hanyu Shuiping Kaoshi 2.0</a>,
       the main international exam for Chinese language. This list is split into levels of the exam, contains <b>2,663</b> characters, and
-      represents the version of the exam as it was from 2010 to 2020 and is still currently running.
+      represents the version of the exam as it was from 2010 to 2020.
     - The list of the Chinese characters from the <a href="https://en.wikipedia.org/wiki/Hanyu_Shuiping_Kaoshi">Hanyu Shuiping Kaoshi 3.0</a>. 
-      This list is split into bands of the exam, contains <b>3,000</b> characters, and represents the version of the exam as it will be from 2021 and onwards.
+      This list is split into bands of the exam, contains <b>3,000</b> characters, and represents the version of the exam as it runs from 2021 and onwards.
 * Three lists of Chinese <b>words</b> (multi-character):
     - The list of the Chinese words by their frequency in the language, based on
       <a href="hhttps://challenges.hackingchinese.com/resources/stories/451-blcu-balanced-corpus-frequency-lists">BLCU Chinese Corpus</a>.
       This list contains all the words with at least 2,000 encounters in the corpus (a total of <b>93,279</b> words).
     - The list of the Chinese words from the <a href="https://en.wikipedia.org/wiki/Hanyu_Shuiping_Kaoshi">Hanyu Shuiping Kaoshi 2.0</a>,
       the main international exam for Chinese language. This list is split into levels of the exam, contains <b>4,287</b> words, and
-      represents the version of the exam as it was from 2010 to 2020 and is still currently running.
+      represents the version of the exam as it was from 2010 to 2020.
     - The list of the Chinese characters from the <a href="https://en.wikipedia.org/wiki/Hanyu_Shuiping_Kaoshi">Hanyu Shuiping Kaoshi 3.0</a>.
-      This list is split into bands of the exam, contains <b>9,446</b> words, and represents the version of the exam as it will be from 2021 and onwards.
+      This list is split into bands of the exam, contains <b>9,446</b> words, and represents the version of the exam as it runs from 2021 and onwards.
   
 For all the characters in the lists, the database provides various data: pronunciation, meaning, dictionary keys, and stroke count. 
 For the words from the HSK levels, there are pronunciations and meanings.
