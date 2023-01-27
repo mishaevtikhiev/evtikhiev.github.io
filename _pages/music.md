@@ -13,27 +13,27 @@ that we drew right on the wallpaper of my apartment in the burst of inspiration.
 
 <table border="0" cellspacing="0" cellpadding="0" style="border: none">
 <tbody>
-<tr>
-<td><b>And I Love Her</b> (The Beatles)</td>
-<td>
+<tr  style="border: none">
+<td  style="border: none"><b>And I Love Her</b> (The Beatles)</td>
+<td  style="border: none">
 <audio controls>
   <source src="/music/and_i_love_her.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 </td>
 </tr>
-<tr>
-<td><b>Across the Universe</b> (The Beatles)</td>
-<td>
+<tr style="border: none">
+<td style="border: none"><b>Across the Universe</b> (The Beatles)</td>
+<td style="border: none">
 <audio controls>
   <source src="/music/across_the_universe.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 </td>
 </tr>
-<tr>
-<td><b>Main Man</b> (T. Rex)</td>
-<td>
+<tr style="border: none">
+<td style="border: none"><b>Main Man</b> (T. Rex)</td>
+<td style="border: none">
 <audio controls>
   <source src="/music/main_man.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
