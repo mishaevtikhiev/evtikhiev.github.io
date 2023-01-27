@@ -13,6 +13,8 @@ author_profile: true
 
 <b>2019</b>: <b><a href="https://areyde.com/interviews/">Interviews with researchers at ITMO University</a></b>
 
+<b>2018</b>: <b><a href="https://areyde.com/music/">Experiments with music</a></b>
+
 <b>2016</b>: <b><a href="https://areyde.com/brics/">THE BRICS & Emerging Economies Universities Summit</a></b>
 
 <b>2013</b>: <b><a href="https://areyde.com/war_and_peace/">Схема героев романа "Война и Мир"</a></b>
