@@ -9,6 +9,8 @@ author_profile: true
 
 <p style="color:#888888;"><i>On this page, I try to list various cool stuff that I would like to save for one reason or another.</i></p>
 
+<b>2019</b>: <b><a href="https://areyde.com/brics/">Interviews with researchers at ITMO University</a></b>
+
 <b>2016</b>: <b><a href="https://areyde.com/brics/">THE BRICS & Emerging Economies Universities Summit</a></b>
 
 <b>2013</b>: <b><a href="https://areyde.com/war_and_peace/">Схема героев романа "Война и Мир"</a></b>
