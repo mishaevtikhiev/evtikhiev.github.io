@@ -22,7 +22,7 @@ as a representative of Russian students. Every summer, I also worked as a camp l
 
 In 2020, I obtained a Master's degree in Laser Technologies from the same university,
 with a specialization in biological and medical applications. During the first year, I worked as an engineer in the lab and a 
-[scientific interviewer](https://areyde.com/interviews/) in the university's news portal. Then, I joined JetBrains and fell in love with Data Science.
+[scientific interviewer](https://areyde.com/interviews/) at the university's news portal. Then, I joined JetBrains and fell in love with Data Science.
 
 <h2 style="margin-top: -5px;">Research</h2>
 
