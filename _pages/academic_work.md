@@ -36,7 +36,7 @@ author_profile: true
 
 <h3>Awardee</h3>
 <b>2022</b>: ACM SIGSOFT Distinguished Paper Award at <a href="https://conf.researchr.org/home/msr-2022">MSR</a> (for the paper <i><a href="https://areyde.com/publications/2022-05-18-jupyter-analysis">"A Large-Scale Comparison of Python Code in Jupyter Notebooks and Scripts"</a></i>)<br>
-<b>2021</b>: Best Tool Demo Award at <a href="https://icsme2021.github.io/">ICSME</a> (for <a href="https://areyde.com/tools/sorrel">Sorrel</a>)<br>
+<b>2021</b>: Best Tool Demo Award at <a href="https://icsme2021.github.io/">ICSME</a> (for the paper <i><a href="https://areyde.com/publications/2021-09-27-sorrel">"Sorrel: an IDE Plugin for Managing Licenses and Detecting License Incompatibilities"</a></i>)<br>
 
 <hr color="#888888" size="4" noshade>
 
