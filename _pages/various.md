@@ -17,6 +17,8 @@ author_profile: true
 
 <b>2016</b>: <b><a href="https://areyde.com/brics/">THE BRICS & Emerging Economies Universities Summit</a></b>
 
+<b>2015</b>: <b><a href="https://areyde.com/pathologic/">Translation of "Pathologic"</a></b>
+
 <b>2013</b>: <b><a href="https://areyde.com/war_and_peace/">Схема героев романа "Война и Мир"</a></b>
 
 <b>2008</b>: <b><a href="https://areyde.com/areyde/">What does "Areyde" mean?</a></b>
