@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: 'Various stuff'
+title: 'Various projects and activities'
 permalink: /various/
 author_profile: true
 ---
 
 {% include base_path %}
 
-<p style="color:#888888;"><i>On this page, I try to list various cool stuff that I would like to save for one reason or another.</i></p>
+<p style="color:#888888;"><i>On this page, I try to list various interesting activities that I participated in.</i></p>
 
 <b>2023</b>: <b><a href="https://areyde.com/philosophy/">The timeline of Western philosophy</a></b>
 
