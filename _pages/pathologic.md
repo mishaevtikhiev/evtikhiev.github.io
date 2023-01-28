@@ -12,5 +12,5 @@ In 2015, I briefly participated in a translation of a video game into English, n
 was just helping and practicing, and so translated very little, however, they still added me to the credits.
 It's a surprising honor, given the fact that this is a great game and a cult classic.
 
-<img src="/images/pathologic.png.png">
+<img src="/images/pathologic.png">
 
