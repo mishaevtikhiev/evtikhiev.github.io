@@ -17,6 +17,8 @@ author_profile: true
 
 <hr color="#888888" size="4" noshade>
 
+<b><a href="https://areyde.com/poetry/2023-01-31">"Приятно знать, что я живой…"</a></b> — 31.01.2023
+
 <b><a href="https://areyde.com/poetry/2023-01-20">"Всё одинаково красиво…"</a></b> — 20.01.2023
 
 <b><a href="https://areyde.com/poetry/2023-01-10">"Сегодня я шёл, и прошёл мимо боли…"</a></b> — 10.01.2023
