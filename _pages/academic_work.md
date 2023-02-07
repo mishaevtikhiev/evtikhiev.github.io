@@ -11,7 +11,7 @@ author_profile: true
 
 {% endif %}
 
-<h2>Participation in conferences</h2>
+<h2>Activities in conferences</h2>
 
 <h3>Author</h3>
 
@@ -37,6 +37,20 @@ author_profile: true
 <h3>Awardee</h3>
 <b>2022</b>: ACM SIGSOFT Distinguished Paper Award at <a href="https://conf.researchr.org/home/msr-2022">MSR</a> (for the paper <i><a href="https://areyde.com/publications/2022-05-18-jupyter-analysis">"A Large-Scale Comparison of Python Code in Jupyter Notebooks and Scripts"</a></i>)<br>
 <b>2021</b>: Best Tool Demo Award at <a href="https://icsme2021.github.io/">ICSME</a> (for the paper <i><a href="https://areyde.com/publications/2021-09-27-sorrel">"Sorrel: an IDE Plugin for Managing Licenses and Detecting License Incompatibilities"</a></i>)<br>
+
+<hr color="#888888" size="4" noshade>
+
+<h2>Activities in journals</h2>
+
+<h3>Author</h3>
+
+<b>2023</b>: <a href="https://www.sciencedirect.com/journal/information-and-software-technology">Information and Software Technology</a><br>
+<b>2021</b>: <a href="https://www.sciencedirect.com/journal/applied-surface-science">Applied Surface Science</a><br>
+<b>2017</b>: <a href="https://www.springer.com/journal/11082">Optical and Quantum Electronics</a>
+
+<h3>Reviewer</h3>
+
+<b>2023</b>: <a href="https://www.sciencedirect.com/journal/science-of-computer-programming">Science of Computer Programming</a>
 
 <hr color="#888888" size="4" noshade>
 
