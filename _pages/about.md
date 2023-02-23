@@ -15,14 +15,17 @@ I also enjoy philosophy, linguistics, history, study the Chinese language and cu
 
 <h2 style="margin-top: -5px;">Background</h2>
 
-In 2018, I obtained a Bachelor's degree in Applied Physics from [ITMO University](https://en.itmo.ru/), focusing on laser
+In 2018, I obtained a Bachelor's degree in Applied Physics from [ITMO University](https://en.itmo.ru/), with a major in laser
 technologies, and planned to become a researcher in this field. While there, I worked as a lab assistant, a guide in the educational museum of optics, as well as a
 secretary in the Foreign Students office, and participated in the [THE BRICS & Emerging Economies Universities Summit](https://areyde.com/brics/)
 as a representative of Russian students. Every summer, I also worked as a camp leader. 
 
-In 2020, I obtained a Master's degree in Laser Technologies from the same university,
-with a specialization in biological and medical applications. During the first year, I worked as an engineer in the lab and a 
-[scientific interviewer](https://areyde.com/interviews/) at the university's news portal. Then, I joined JetBrains and fell in love with Data Science.
+In 2020, I obtained a Master's degree with honors in Laser Technologies from the same university,
+with a major in biological and medical applications. During the first year, I worked as an engineer in the lab and a 
+[scientific interviewer](https://areyde.com/interviews/) at the university's news portal, and also led the School of Laser Technologies for highschoolers. Then, I joined JetBrains and fell in love with Data Science.
+
+I also have an unfinished Bachelor's degree in Philosophy from [Herzen University](https://en.hspu.org/). In my studies,
+I focused on the Chinese philosophy and conducted research about the concept of relativity in ancient Taoist texts.
 
 <h2 style="margin-top: -5px;">Research</h2>
 
