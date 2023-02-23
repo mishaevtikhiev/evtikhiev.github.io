@@ -25,7 +25,7 @@ with a major in biological and medical applications. During the first year, I wo
 [scientific interviewer](https://areyde.com/interviews/) at the university's news portal, and also led the School of Laser Technologies for highschoolers. While studying there, I was lucky to join JetBrains and fell in love with Data Science.
 
 I also have an unfinished Bachelor's degree in Philosophy from [Herzen University](https://en.hspu.org/). In my studies,
-I focused on Chinese philosophy, especially Taoism, and conducted research about the concept of relativity in ancient Taoist texts.
+I focused on Chinese philosophy, especially Taoism, and conducted preliminary research about the concept of relativity in ancient Taoist texts.
 
 <h2 style="margin-top: -5px;">Research</h2>
 
