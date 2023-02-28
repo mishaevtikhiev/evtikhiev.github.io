@@ -17,6 +17,8 @@ author_profile: true
 
 <hr color="#888888" size="4" noshade>
 
+<b><a href="https://areyde.com/poetry/2023-02-28">"Прожил четверть века…"</a></b> — 28.02.2023
+
 <b><a href="https://areyde.com/poetry/2023-02-25">"Любимый дневник. В час тоски и тревоги…"</a></b> — 25.02.2023
 
 <b><a href="https://areyde.com/poetry/2023-01-31">"Приятно знать, что я живой…"</a></b> — 31.01.2023
