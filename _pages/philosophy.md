@@ -16,11 +16,11 @@ reminding you that some philosophers from the "same" period were as far away fro
 
 <p style="color:#888888;"><i>Note: some dates are only approximate, and the categorization is mostly for my own convenience and the ease of learning, not always based on the shared school of thought.</i></p>
 
-<h2>Ancient philosophy</h2>
+<h2>Ancient philosophy (64 philosophers)</h2>
 
 <img src="/images/philosophy_ancient.png">
 
-<h2>Medieval philosophy</h2>
+<h2>Medieval philosophy (76 philosophers)</h2>
 
 <img src="/images/philosophy_medieval.png">
 
