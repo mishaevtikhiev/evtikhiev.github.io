@@ -24,4 +24,5 @@ reminding you that some philosophers from the "same" period were as far away fro
 
 <img src="/images/philosophy_medieval.png">
 
-<p style="color:#888888;"><i>Coming soon: Renaissance, Modern, and Contemporary philosophy. Hopefully, Chinese philosophy too.</i></p>
+<p style="color:#888888;"><i>Coming soon: Renaissance, Modern, and Contemporary philosophy. Hopefully, Chinese philosophy too. 
+Also, when all the sections are finished, I will re-work it into interactive graphs.</i></p>
