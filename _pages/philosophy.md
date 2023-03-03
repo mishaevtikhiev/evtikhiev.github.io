@@ -20,7 +20,7 @@ reminding you that some philosophers from the "same" period were as far away fro
 
 <img src="/images/philosophy_ancient.png">
 
-<h2>Medieval philosophy (76 philosophers)</h2>
+<h2>Medieval philosophy (77 philosophers)</h2>
 
 <img src="/images/philosophy_medieval.png">
 
