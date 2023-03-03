@@ -13,7 +13,7 @@ I could look over with one glance, but that would systemize what I've learned. T
 on a timeline. On the one hand, it automatically provides a more-or-less ordered list that can be useful for remembering
 ideas based on names, and on the other hand, it creates an important feeling of relativity, puts the dates in context,
 reminding you that some philosophers from the "same" period were as far away from each other as the French Revolution is from us.
-The list is mostly based on Reale and Antiseri's "Il pensiero occidentale dalle origini ad oggi" in three volumes,
+The list is mostly based on Reale and Antiseri's <i>"Il pensiero occidentale dalle origini ad oggi"</i> in three volumes,
 with some additions from various sources.
 
 <p style="color:#888888;"><i>Note: some dates are only approximate, and the categorization is mostly for my own convenience and the ease of learning, not always based on the shared school of thought.</i></p>
