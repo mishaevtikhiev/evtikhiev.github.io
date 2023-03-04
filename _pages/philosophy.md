@@ -17,14 +17,14 @@ reminding you that some philosophers from the "same" period were as far away fro
 The list is mostly based on Reale and Antiseri's <i>"Il pensiero occidentale dalle origini ad oggi"</i> in three volumes,
 with some additions from various sources. Overall, currently, there are three periods ready, which you can find below:
 
-* Ancient philosophy (64 names);
-* Medieval philosophy (80 names).
+* <b>Ancient</b> philosophy (64 names);
+* <b>Medieval</b> philosophy (80 names);
+* * <b>Renaissance</b> philosophy ().
 
 The following periods are in works and will come soon:
 
-* Renaissance philosophy;
-* Modern philosophy;
-* Contemporary philosophy.
+* <b>Modern</b> philosophy;
+* <b>Contemporary</b> philosophy.
 
 Perhaps, the categorization will be more specific if there are too many philosophers. Also, when I finish the initial
 version of this project, I plan to re-work it into interactive graphs for the future.
