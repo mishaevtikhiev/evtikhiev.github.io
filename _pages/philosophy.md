@@ -17,9 +17,9 @@ reminding you that some philosophers from the "same" period were as far away fro
 The list is mostly based on Reale and Antiseri's <i>"Il pensiero occidentale dalle origini ad oggi"</i> in three volumes,
 with some additions from various sources. Overall, currently, there are three periods ready, which you can find below:
 
-* <b>Ancient</b> philosophy (64 names);
+* <b>Ancient</b> philosophy (68 names);
 * <b>Medieval</b> philosophy (80 names);
-* * <b>Renaissance</b> philosophy ().
+* <b>Renaissance</b> philosophy (52 names).
 
 The following periods are in works and will come soon:
 
@@ -31,10 +31,14 @@ version of this project, I plan to re-work it into interactive graphs for the fu
 
 <p style="color:#888888;"><i>Note: some dates are only approximate, and the categorization is mostly for my own convenience and the ease of learning, not always based on the shared school of thought.</i></p>
 
-<h2>Ancient philosophy (64 names)</h2>
+<h2>Ancient philosophy (68 names)</h2>
 
 <img src="/images/philosophy_ancient.png">
 
 <h2>Medieval philosophy (80 names)</h2>
 
 <img src="/images/philosophy_medieval.png">
+
+<h2>Renaissance philosophy (52 names)</h2>
+
+<img src="/images/philosophy_renaissance.png">
