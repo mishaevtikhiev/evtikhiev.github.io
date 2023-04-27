@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: 'Various projects and activities'
-permalink: /various/
+permalink: /miscellaneous/
 author_profile: true
 ---
 
