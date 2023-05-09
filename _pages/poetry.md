@@ -17,6 +17,8 @@ author_profile: true
 
 <hr color="#888888" size="4" noshade>
 
+<b><a href="https://areyde.com/poetry/2023-05-09">"Кругом вода и многоречье…"</a></b> — 09.05.2023
+
 <b><a href="https://areyde.com/poetry/2023-04-25">"Я не хочу на небо к Богу…"</a></b> — 25.04.2023
 
 <b><a href="https://areyde.com/poetry/2023-04-18">"В глуши лесной, под сенью гор…"</a></b> — 18.04.2023
