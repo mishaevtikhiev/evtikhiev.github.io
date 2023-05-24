@@ -44,4 +44,6 @@ with some additions from various sources. The list is divided into charts as fol
 
 <h2>Late Modern thought (88 names)</h2>
 
+<img src="/images/thought_5_late_modern.png">
+
 <h2>Contemporary thought (104 names)</h2>
