@@ -17,6 +17,8 @@ author_profile: true
 
 <hr color="#888888" size="4" noshade>
 
+<b><a href="https://areyde.com/poetry/2023-06-13">"Насколько беден наш язык…"</a></b> — 13.06.2023
+
 <b><a href="https://areyde.com/poetry/2023-06-01">"Когда приду к воротам рая…"</a></b> — 01.06.2023
 
 <b><a href="https://areyde.com/poetry/2023-05-09">"Кругом вода и многоречье…"</a></b> — 09.05.2023
