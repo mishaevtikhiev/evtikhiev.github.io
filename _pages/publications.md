@@ -15,7 +15,15 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-<h2 >Laser Technologies</h2>
+<!-- <h2 >Collective Software Development</h2> -->
+
+<!-- {% for post in site.ictl reversed %} -->
+<!--   {% include archive-single.html %} -->
+<!--   <b> works </b> -->
+<!-- {% endfor %} -->
+
+
+<h2 >Theoretical Physics</h2>
 
 {% for post in site.publicationsphysics reversed %}
   {% include archive-single.html %}

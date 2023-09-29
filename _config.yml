@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yaroslav Golubev"
+title                    : "Mikhail Evtikhiev"
 title_separator          : "—"
-name                     : &name "Yaroslav Golubev"
-description              : &description "Yaroslav Golubev"
-url                      : "https://areyde.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Mikhail Evtikhiev"
+description              : &description "Mikhail Evtikhiev"
+url                      : "https://evtikhiev.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "areyde/areyde.github.io"
+repository               : "mishaevtikhiev/evtikhiev.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,9 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : areyde
+  username               : mishaevtikhiev
 facebook:
-  username               : areyde
+  username               : mishaevtikhiev
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -73,49 +73,48 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          : "G-B1PYH90B0L"
+  provider               : "false" # false (default), "google", "google-universal", "custom"
+
 
 
 # Site Author
 author:
-  name             : "Yaroslav Golubev"
-  avatar           : "face.png"
-  bio              : "Senior Researcher in the ML4SE group at JetBrains Research"
-  location         : "Belgrade, Serbia"
+  name             : "Mikhail Evtikhiev"
+  avatar           : "me.jpg"
+  bio              : "Researcher in the ML4SE and ICTL groups at JetBrains Research"
+  location         : "Limassol, Cyprus"
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=qb_dl6AAAAAJ&hl=en"
-  email            : "yaroslav.golubev[at]jetbrains.com"
-  researchgate     : "https://www.researchgate.net/profile/Yaroslav-Golubev/"
+  googlescholar    : "https://scholar.google.com/citations?user=X2v8sUoAAAAJ&hl=en"
+  email            : "mishaevtikhiev@gmail.com"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "areyde"
+  facebook         :
   foursquare       :
-  github           : "areyde"
+  github           : "mishaevtikhiev"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "yaroslav-golubev"
-  orcid            : "https://orcid.org/0000-0001-7009-635X"
+  linkedin         : "mikhailevtikhiev"
+  orcid            : "https://orcid.org/0000-0002-1004-8943"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "areyde"
+  twitter          : "mishaevtikhiev"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-  dblp             : "https://dblp.org/pid/256/6199.html"
+  dblp             :
 
 
 # Reading Files

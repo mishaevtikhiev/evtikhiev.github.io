@@ -6,14 +6,5 @@ main:
   - title: "Academic work"
     url: /academic_work/
 
-  - title: '"О природе"'
-    url: /poetry/
-
-  - title: "中文数据库"
-    url: /chinese/
-
-  - title: "Travels"
-    url: /travels/
-
-  - title: 'Miscellaneous'
-    url: /miscellaneous/
+  - title: 'Talks'
+    url: /talks/

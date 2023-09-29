@@ -8,55 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-My name is Yaroslav Golubev, I am a senior researcher in the
-[Machine Learning Methods in Software Engineering group](https://research.jetbrains.org/groups/ml_methods/) at
-[JetBrains Research](https://research.jetbrains.org/), led by [Dr. Timofey Bryksin](https://jzuken.github.io/). 
-I also enjoy philosophy, linguistics, history, study the Chinese language and culture, and sometimes write. Feel free to drop me a line using any of the links on the left!
+My name is Mikhail (Misha) Evtikhiev, I am a researcher in the
+[Machine Learning Methods in Software Engineering](https://lp.jetbrains.com/research/ml_methods/) and [Intelligent Collaboration Tools Lab](https://lp.jetbrains.com/research/ictl/) groups at
+[JetBrains Research](https://www.jetbrains.com/research/).
 
 <h2 style="margin-top: -5px;">Background</h2>
 
-In 2018, I obtained a Bachelor's degree in Applied Physics from [ITMO University](https://en.itmo.ru/), with a major in laser
-technologies, and planned to become a researcher in this field. While there, I worked as a lab assistant, a guide in the educational museum of optics, as well as a
-secretary in the Foreign Students office, and participated in the [THE BRICS & Emerging Economies Universities Summit](https://areyde.com/brics/)
-as a representative of Russian students. Every summer, I also worked as a camp leader. 
-
-In 2020, I obtained a Master's degree with honors in Laser Technologies from the same university,
-with a major in biological and medical applications. During the first year, I worked as an engineer in the lab and a 
-[scientific interviewer](https://areyde.com/interviews/) at the university's news portal, and also led the School of Laser Technologies for highschoolers. While studying there, I was lucky to join JetBrains and fell in love with Data Science.
-
-I also have an unfinished Bachelor's degree in Philosophy from [Herzen University](https://en.hspu.org/). In my studies,
-I focused on Chinese philosophy, especially Taoism, and conducted preliminary research about the concept of relativity in ancient Taoist texts.
+In 2013, I got a Bachelor's degree with honors in Physics from [St Petersburg Polytechnical University](https://english.spbstu.ru/university/), majoring in Astrophysics.
+I did my graduate studies at [Weizmann Institute of Science](https://weizmann.ac.il), majoring in Theoretical Physics. I got my MSc in 2015 and defended my PhD in 2020.
+My PhD thesis subject was "[On Superconformal Field Theories and Little String Theories](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NuYsOk4AAAAJ&citation_for_view=NuYsOk4AAAAJ:2osOgNQ5qMEC)".
 
 <h2 style="margin-top: -5px;">Research</h2>
 
-The overarching theme of [my studies](https://areyde.com/publications/) is mining large corpora of existing source code and analyzing them to discover various
-patterns and dependencies, better understand how developers write software, and create tools that can help them do it more efficiently. While
-I was lucky to participate in a number of practical collaborations, my personal interest leans closer
-to the analytical and the descriptive side of things. I also help my colleagues in designing their studies and writing papers, and generally enjoy various kinds of 
-writing, administrative, and supporting work. My main interests in the domain of software engineering are:
+I work on two different topics, and pursue each of them in a corresponding JetBrains Research group.
+First, I am interested in improving performance of deep learning models for code. I work on that at Machine Learning Methods in Software Engineering group,
+and currently I am focused on using various mathematical methods to improve code generation quality.
+Second, I study how engineers work in a team, and how can we help them to manage teamwork-related problems. At Intelligent Collaboration Tools Lab,
+I use exploratory interviews and surveys to understand the pain points better, and devise approaches to create tools that will address these pain points.
 
-* code clones,
-* open-source software licenses,
-* code changes (patterns and automatic fixes), 
-* refactorings,
-* code and test smells,
-* evolution of ecosystems.
 
-However, since I assist in a lot of different projects, I enjoyed the privilege of learning about and touching on all kinds of subjects,
-like serverless computing, embeddings of code, bug triage, Jupyter notebooks, code completion, code quality, and others. I also sometimes [teach classes, advise students, and serve at various conferences](https://areyde.com/academic_work/),
-all of which I really love doing. 
 
-<h2 style="margin-top: -5px;">Hobbies</h2>
-
-My main hobby outside the realm of software engineering is [philosophy](https://areyde.com/philosophy/).
-While I love all philosophy in general, I care especially deeply about Eastern philosophy — mainly, Taoism, Buddhism, and [Ājīvika](https://en.wikipedia.org/wiki/%C4%80j%C4%ABvika).
-As far as specific studies go, I am most interested in ontology, natural philosophy, and the problem of free will.
-Sometimes together with philosophy, sometimes separately, I also really love the studies of religions and the history of religious thought.
-
-Another major love of mine is the Chinese language and [sharing with people how awesome it is](https://areyde.com/chinese/). 
-In addition to learning it, I love analyzing its content, popularity, history, and evolution. In general, 
-I am interested in all major humanitarian fields, especially linguistics and history. In my free time, I sometimes 
-[write a little poetry](https://areyde.com/poetry/) (in Russian).
-
-Finally, while I am not an avid traveler, I did write down 
-[all the places where I have been](https://areyde.com/travels/). There aren't too many of them, but luckily, the number can only go up!
